@@ -1,0 +1,3 @@
+[submodule "Wwise-Unpacker"]
+	path = Wwise-Unpacker
+	url = https://github.com/mortalis13/Wwise-Unpacker.git
