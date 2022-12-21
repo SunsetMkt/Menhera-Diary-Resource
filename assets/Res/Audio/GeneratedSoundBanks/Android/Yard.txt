@@ -1,0 +1,52 @@
+Event	ID	Name			Wwise Object Path	Notes
+	128386159	Play_UI_Yard_order_headshot			\Default Work Unit\Yard\order\Play_UI_Yard_order_headshot	
+	142132953	Play_UI_Yard_depot_throw			\Default Work Unit\Yard\depot\Play_UI_Yard_depot_throw	
+	155269285	Play_UI_Yard_farming_speedup			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_speedup	
+	262279684	Play_UI_Yard_farming_planting			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_planting	
+	1205212726	Play_UI_Yard_farming_sickle			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_sickle	
+	1263439194	Play_UI_Yard_order_crate			\Default Work Unit\Yard\order\Play_UI_Yard_order_crate	
+	1284270725	Play_UI_Yard_pop_up			\Default Work Unit\Yard\Play_UI_Yard_pop_up	
+	1349934180	Play_UI_Yard_order_receive			\Default Work Unit\Yard\order\Play_UI_Yard_order_receive	
+	1409220963	Play_UI_Yard_wish_stamp			\Default Work Unit\Yard\Play_UI_Yard_wish_stamp	
+	1461476412	Play_UI_Yard_farming_cropland			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_cropland	
+	1463986358	Play_UI_Yard_farming_vegetable			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_vegetable	
+	1590884804	Play_UI_Yard_order_plant			\Default Work Unit\Yard\order\Play_UI_Yard_order_plant	
+	1675812985	Play_UI_Yard_depot_upgrade			\Default Work Unit\Yard\depot\Play_UI_Yard_depot_upgrade	
+	2007328056	Play_UI_Yard_order_progress			\Default Work Unit\Yard\order\Play_UI_Yard_order_progress	
+	2017721846	Play_UI_Yard_farming_leave			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_leave	
+	2117004368	Play_UI_Yard_order_reward			\Default Work Unit\Yard\order\Play_UI_Yard_order_reward	
+	2574436460	Play_UI_Yard_backyard_entrance			\Default Work Unit\Yard\Play_UI_Yard_backyard_entrance	
+	2995201272	Play_UI_Yard_order_box			\Default Work Unit\Yard\order\Play_UI_Yard_order_box	
+	3002542952	Play_UI_Yard_backyard_enter			\Default Work Unit\Yard\Play_UI_Yard_backyard_enter	
+	3236677414	Play_UI_Yard_farming_warehouse			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_warehouse	
+	3253552057	Play_UI_Yard_order_star			\Default Work Unit\Yard\order\Play_UI_Yard_order_star	
+	3320849004	Play_UI_Yard_farming_harvest			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_harvest	
+	3511310085	Play_UI_Yard_farming_icons			\Default Work Unit\Yard\farming\Play_UI_Yard_farming_icons	
+	3951567574	Play_UI_Yard_button			\Default Work Unit\Yard\Play_UI_Yard_button	
+	4141029185	Play_UI_Yard_depot_diamond			\Default Work Unit\Yard\depot\Play_UI_Yard_depot_diamond	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	21818497	UI_Yard_depot_diamond	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_depot_diamond_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\depot\UI_Yard_depot_diamond		156488
+	98716195	UI_Yard_depot_throw	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_depot_throw_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\depot\UI_Yard_depot_throw		65452
+	131159848	UI_Yard_farming_icons	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_icons_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_icons		28632
+	207394859	UI_Yard_farming_vegetable	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_vegetable_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_vegetable		16476
+	248808879	UI_Yard_farming_planting	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_planting_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_planting		85904
+	269886350	UI_Yard_farming_sickle	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_sickle_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_sickle		54172
+	274387166	UI_Yard_order_crate	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_order_crate_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\order\UI_Yard_order_crate		119700
+	320783936	UI_Yard_farming_leave	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_leave_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_leave		68364
+	338014119	UI_Yard_order_receive	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_order_receive_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\order\UI_Yard_order_receive		21316
+	435878278	UI_Yard_farming_harvest	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_harvest_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_harvest		518514947	UI_Yard_order_progress	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_order_progress_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\order\UI_Yard_order_progress		144820
+	559797437	UI_Yard_depot_upgrade	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_depot_upgrade_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\depot\UI_Yard_depot_upgrade		298988
+	581871802	UI_Yard_order_star	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_order_star_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\order\UI_Yard_order_star		393128
+	608301040	UI_Yard_farming_cropland	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_cropland_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_cropland		104484
+	637847752	UI_Yard_farming_speedup	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_speedup_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_speedup		191968
+	657657952	UI_Yard_button	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_button_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\UI_Yard_button		24208
+	734965822	UI_Yard_order_box	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_order_box_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\order\UI_Yard_order_box		63868
+	826794494	UI_Yard_order_plant	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_order_plant_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\order\UI_Yard_order_plant		420744
+	831649238	UI_Yard_backyard_entrance	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_backyard_entrance_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\UI_Yard_backyard_entrance		107308
+	853008020	UI_Yard_farming_warehouse	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_farming_warehouse_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\farming\UI_Yard_farming_warehouse		43860
+	887477982	UI_Yard_order_headshot	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_order_headshot_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\order\UI_Yard_order_headshot		21828
+	934365938	UI_Yard_order_reward	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_order_reward_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\order\UI_Yard_order_reward		311204
+	958199624	UI_Yard_backyard_enter	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_backyard_enter_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\UI_Yard_backyard_enter		1047605802	UI_Yard_wish_stamp	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_wish_stamp_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\UI_Yard_wish_stamp		64176
+	1054022656	UI_Yard_pop-up	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_Yard_pop-up_CA0198D6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Yard\UI\UI_Yard_pop-up		35512
+

@@ -1,0 +1,26 @@
+Event	ID	Name			Wwise Object Path	Notes
+	161477869	Play_UI_social__reward			\Default Work Unit\Social\Play_UI_social__reward	
+	415208446	Play_UI_social_favorite_cancel			\Default Work Unit\Social\Play_UI_social_favorite_cancel	
+	550095682	Play_UI_social_tag_select			\Default Work Unit\Social\Play_UI_social_tag_select	
+	688761684	Play_UI_social_category_select			\Default Work Unit\Social\Play_UI_social_category_select	
+	756534299	Play_UI_social_follow_cancel			\Default Work Unit\Social\Play_UI_social_follow_cancel	
+	1020668133	Play_UI_social_avatar_change			\Default Work Unit\Social\Play_UI_social_avatar_change	
+	1237224409	Play_UI_social_avatar_select			\Default Work Unit\Social\Play_UI_social_avatar_select	
+	1269161692	Play_UI_social_favorite_light			\Default Work Unit\Social\Play_UI_social_favorite_light	
+	1526697719	Play_UI_social_menu_select			\Default Work Unit\Social\Play_UI_social_menu_select	
+	2567622598	Play_UI_social_visit			\Default Work Unit\Social\Play_UI_social_visit	
+	3489326854	Play_UI_social_thumb_light			\Default Work Unit\Social\Play_UI_social_thumb_light	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	217529647	UI_social_favorite_light	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_favorite_light_17CDF532.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_favorite_light		18780
+	231103771	UI_social_avatar_change	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_avatar_change_C83A21A4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_avatar_change		10484
+	353567053	UI_social_follow_cancel	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_follow_cancel_2F5D7696.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_follow_cancel		13014
+	368649124	UI_social_favorite_cancel	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_favorite_cancel_01C73899.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_favorite_cancel		15340
+	430390629	UI_social_category_select	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_category_select_110B0F5B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_category_select		17162
+	508652934	UI_social_menu_select	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_menu_select_6227ABFB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_menu_select		6640
+	540970392	UI_social_visit	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_visit_CC32250C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_visit		61786
+	573151516	UI_social_tag_select	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_tag_select_D6AA5548.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_tag_select		7044
+	699467332	UI_social_thumb_light	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_thumb_light_91FED82C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_thumb_light		12394
+	715131602	UI_social_avatar_select	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social_avatar_select_FE444772.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social_avatar_select		10384
+	805513640	UI_social _reward	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_social _reward_F218570B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Social\UI\UI_social _reward		263848
+

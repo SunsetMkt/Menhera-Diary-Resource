@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	879773069	Play_Minigame_jenga_drop			\Default Work Unit\minigame\Play_Minigame_jenga_drop	
+	2121353165	Play_Minigame_jenga_fall			\Default Work Unit\minigame\Play_Minigame_jenga_fall	
+	3157704553	Play_Minigame_jenga_land			\Default Work Unit\minigame\Play_Minigame_jenga_land	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	330437610	Minigame_jenga_land_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_land_02_65879062.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_land\Minigame_jenga_land_02		6286
+	512818913	Minigame_jenga_drop_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_drop_02_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_drop\Minigame_jenga_drop_02		10818
+	590878595	Minigame_jenga_drop_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_drop_04_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_drop\Minigame_jenga_drop_04		10818
+	602182362	Minigame_jenga_drop_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_drop_03_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_drop\Minigame_jenga_drop_03		10818
+	697879853	Minigame_jenga_land_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_land_04_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_land\Minigame_jenga_land_04		8776
+	705308359	Minigame_jenga_drop_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_drop_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_drop\Minigame_jenga_drop_01		10818
+	727873584	Minigame_jenga_land_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_land_03_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_land\Minigame_jenga_land_03		8778
+	743586580	Minigame_jenga_fall	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_fall_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_fall		109766
+	991391152	Minigame_jenga_land_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Minigame_jenga_land_01_AB5AAA65.wem		\Actor-Mixer Hierarchy\Default Work Unit\Minigame\Jenga\Minigame_jenga_land\Minigame_jenga_land_01		2868
+

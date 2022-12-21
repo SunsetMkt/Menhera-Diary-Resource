@@ -1,0 +1,133 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1071299879	Game_mode			\Default Work Unit\Game_mode	
+	1183803264	Fan			\Default Work Unit\Fan	
+	1788953301	Output_type			\Default Work Unit\Output_type	
+	1966247060	Jenga			\Default Work Unit\Jenga	
+	2153149596	Lottery			\Default Work Unit\Lottery	
+	2479796841	BGM_mode			\Default Work Unit\BGM_mode	
+	2666809638	Day_night			\Default Work Unit\Day_night	
+	2820053716	Appoint_area			\Default Work Unit\Appoint_area	
+	3310578182	Minigame			\Default Work Unit\Minigame	
+	3686139462	Area			\Default Work Unit\Area	
+	4214858766	Plot_mode			\Default Work Unit\Plot_mode	
+
+State	ID	Name	State Group			Notes
+	0	None	Game_mode			
+	249970651	focus	Game_mode			
+	1160234136	normal	Game_mode			
+	3571162280	CD_player	Game_mode			
+	0	None	Fan			
+	930712164	Off	Fan			
+	1651971902	On	Fan			
+	0	None	Output_type			
+	2748973500	Speaker	Output_type			
+	3543592629	Headphone	Output_type			
+	0	None	Jenga			
+	529726532	end	Jenga			
+	1281810935	start	Jenga			
+	0	None	Lottery			
+	645492555	out	Lottery			
+	1752637612	in	Lottery			
+	0	None	BGM_mode			
+	800334384	appoint	BGM_mode			
+	1423979120	plot	BGM_mode			
+	2153149596	lottery	BGM_mode			
+	2403500745	saloon	BGM_mode			
+	3310578182	minigame	BGM_mode			
+	0	None	Day_night			
+	765672767	noon	Day_night			
+	1011622525	night	Day_night			
+	1435266553	latenight	Day_night			
+	1924633667	morning	Day_night			
+	0	None	Appoint_area			
+	2395677314	common	Appoint_area			
+	0	None	Minigame			
+	1966247060	jenga	Minigame			
+	0	None	Area			
+	2403500745	saloon	Area			
+	2525152325	yard	Area			
+	3012222961	closet	Area			
+	0	None	Plot_mode			
+	443572635	sad	Plot_mode			
+	783551814	furtive	Plot_mode			
+	788884573	Stop	Plot_mode			
+	1160234136	normal	Plot_mode			
+	1427264549	happy	Plot_mode			
+	1737604687	comfort	Plot_mode			
+	1816332127	funny	Plot_mode			
+	3099819167	confrontation	Plot_mode			
+	4130122878	touching	Plot_mode			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	177439354	focus	Game_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ingame\Music		
+	404229207	focus	Game_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\CD		
+	540636548	CD_player	Game_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ingame\Music		
+	571865990	CD_player	Game_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ingame\SFX		
+	743973180	CD_player	Game_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ingame\SFX\Focus		
+	790607382	normal	Game_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\CD		
+	890454831	normal	Game_mode	\Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus\Ingame\SFX\Focus		
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	3673881719	Volume_SFX			\Default Work Unit\Volume_SFX	
+	3676256460	Volume_voice			\Default Work Unit\Volume_voice	
+	3891337659	Volume_music			\Default Work Unit\Volume_music	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	73015004	Login			\Default Work Unit\Master Audio Bus\Ingame\Login	
+	249970651	Focus			\Default Work Unit\Master Audio Bus\Ingame\SFX\Focus	
+	308933450	Town_mid			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street\Town_mid	
+	383049720	Community			\Default Work Unit\Master Audio Bus\Ingame\SFX\Community	
+	393239870	SFX			\Default Work Unit\Master Audio Bus\Ingame\SFX	
+	436743010	Character			\Default Work Unit\Master Audio Bus\Ingame\SFX\Character	
+	578802399	Town_far			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street\Town_far	
+	800334384	Appoint			\Default Work Unit\Master Audio Bus\Ingame\SFX\Appoint	
+	842837903	Guide			\Default Work Unit\Master Audio Bus\Ingame\Guide	
+	886765804	Yards			\Default Work Unit\Master Audio Bus\Ingame\SFX\Yards	
+	984691642	Ingame			\Default Work Unit\Master Audio Bus\Ingame	
+	1048449605	Map			\Default Work Unit\Master Audio Bus\Ingame\SFX\Map	
+	1117531639	AMB			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB	
+	1178995216	Moble			\Default Work Unit\Master Audio Bus\Ingame\Voice\Moble	
+	1222624712	Item			\Default Work Unit\Master Audio Bus\Ingame\SFX\Item	
+	1551306167	UI			\Default Work Unit\Master Audio Bus\Ingame\SFX\UI	
+	1589650888	Social			\Default Work Unit\Master Audio Bus\Ingame\SFX\Social	
+	1780448749	Puzzle			\Default Work Unit\Master Audio Bus\Ingame\SFX\Puzzle	
+	1789268009	Town_street			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street	
+	1853303376	CD			\Default Work Unit\Master Audio Bus\CD	
+	2153149596	Lottery			\Default Work Unit\Master Audio Bus\Ingame\SFX\Lottery	
+	2265298992	Town_close			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street\Town_close	
+	2540996335	Board			\Default Work Unit\Master Audio Bus\Ingame\SFX\Board	
+	2969740077	Menhera			\Default Work Unit\Master Audio Bus\Ingame\SFX\Character\Menhera	
+	3091570009	Town			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town	
+	3170124113	Voice			\Default Work Unit\Master Audio Bus\Ingame\Voice	
+	3223180145	Gacha			\Default Work Unit\Master Audio Bus\Ingame\SFX\Gacha	
+	3310578182	Minigame			\Default Work Unit\Master Audio Bus\Ingame\SFX\Minigame	
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+	3991942870	Music			\Default Work Unit\Master Audio Bus\Ingame\Music	
+	4189504227	Card			\Default Work Unit\Master Audio Bus\Ingame\SFX\Card	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	7855310	Reveb_town_street			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street\Reveb_town_street	
+	674522503	Lane			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street\Lane	
+	882061214	Reveb_town_far			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street\Town_far\Reveb_town_far	
+	1017017619	Reveb_town_mid			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street\Town_mid\Reveb_town_mid	
+	2403500745	Saloon			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Saloon	
+	2513356191	Reveb_town_yard			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Town\Town_street\Town_close\Reveb_town_yard	
+	2525152325	Yard			\Default Work Unit\Master Audio Bus\Ingame\SFX\AMB\Yard	
+
+Effect plug-ins	ID	Name	Type				Notes
+	249670523	Dialog_Leveler_Hard_(Custom)	Wwise Compressor			
+	251888526	Wwise_Matrix_Reverb_(Custom)	Wwise Matrix Reverb			
+	417503175	McDSP_ML1_(Custom)	McDSP ML1			
+	535559390	Dirty_Washing_Machine_(Custom)	Wwise RoomVerb			
+	582265640	RoomVerb_saloon_(Custom)	Wwise RoomVerb			
+	595265130	Dirty_Washing_Machine_(Custom)	Wwise RoomVerb			
+	684695475	Wwise_Matrix_Reverb_(Custom)	Wwise Matrix Reverb			
+	702543456	Tunnel1	Wwise Matrix Reverb			
+	916259710	Brick_Wall_Minus_6dB_Peak_Fast_Release_(Custom)	Wwise Peak Limiter			
+	1551236760	Small_Wooden_Room1	Wwise Matrix Reverb			
+	3673681183	Large_Bright_Chamber1	Wwise Matrix Reverb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

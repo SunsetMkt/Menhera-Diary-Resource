@@ -1,0 +1,18 @@
+Event	ID	Name			Wwise Object Path	Notes
+	531550870	Play_VO_roomaction_tea_hot			\Default Work Unit\Voice\Common\roomaction\Play_VO_roomaction_tea_hot	
+	787930194	Play_VO_roomaction_chips_eat			\Default Work Unit\Voice\Common\roomaction\Play_VO_roomaction_chips_eat	
+	3318857686	Play_VO_roomaction_chips_pour			\Default Work Unit\Voice\Common\roomaction\Play_VO_roomaction_chips_pour	
+	3333551975	Play_VO_roomaction_chips_cola			\Default Work Unit\Voice\Common\roomaction\Play_VO_roomaction_chips_cola	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	509802037	VO_roomaction_tea_hot	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_roomaction_tea_hot_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_tea_hot		1463
+	876398089	VO_roomaction_chips_eat	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_roomaction_chips_eat_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_eat		1185
+	879888782	VO_roomaction_chips_cola	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_roomaction_chips_cola_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_cola		1079
+	1005151025	VO_roomaction_chips_pour	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_roomaction_chips_pour_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_pour		963
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	509802037	VO_roomaction_tea_hot	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_roomaction_tea_hot_737634FD.wem	509802037.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_tea_hot	
+	876398089	VO_roomaction_chips_eat	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_roomaction_chips_eat_737634FD.wem	876398089.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_eat	
+	879888782	VO_roomaction_chips_cola	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_roomaction_chips_cola_737634FD.wem	879888782.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_cola	
+	1005151025	VO_roomaction_chips_pour	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_roomaction_chips_pour_737634FD.wem	1005151025.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_pour	
+

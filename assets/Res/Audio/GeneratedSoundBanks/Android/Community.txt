@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1204460466	Play_UI_community_success			\Default Work Unit\Community\Play_UI_community_success	
+	1282212925	Play_UI_community_fail			\Default Work Unit\Community\Play_UI_community_fail	
+	3498560692	Play_UI_community_reward			\Default Work Unit\Community\Play_UI_community_reward	
+	3750080733	Play_UI_community_correct			\Default Work Unit\Community\Play_UI_community_correct	
+	4031715202	Play_UI_community_incorrect			\Default Work Unit\Community\Play_UI_community_incorrect	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	235404115	UI_community_correct	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_community_correct_F15DCB6F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Community\UI\UI_community_correct		99740
+	255727127	UI_community_success	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_community_success_34D7E053.wem		\Actor-Mixer Hierarchy\Default Work Unit\Community\UI\UI_community_success		76164
+	422326174	UI_community_reward	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_community_reward_CC07C7AA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Community\UI\UI_community_reward		119704
+	816335427	UI_community_fail	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_community_fail_3EC96661.wem		\Actor-Mixer Hierarchy\Default Work Unit\Community\UI\UI_community_fail		59808
+	941166642	UI_community_incorrect	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_community_incorrect_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Community\UI\UI_community_incorrect		110316
+

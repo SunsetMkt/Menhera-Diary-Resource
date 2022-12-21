@@ -1,0 +1,23 @@
+Event	ID	Name			Wwise Object Path	Notes
+	290159900	Play_UI_card_upgrade			\Default Work Unit\Cards\Play_UI_card_upgrade	
+	292204418	Play_UI_card_camera_whoosh			\Default Work Unit\Cards\Play_UI_card_camera_whoosh	
+	623017417	Play_UI_card_envelope_click			\Default Work Unit\Cards\Play_UI_card_envelope_click	
+	915666881	Play_UI_card_furniture_lay			\Default Work Unit\Cards\Play_UI_card_furniture_lay	
+	2321300482	Stop_UI_card_furniture_site			\Default Work Unit\Cards\Stop_UI_card_furniture_site	
+	2987706604	Play_UI_card_get			\Default Work Unit\Cards\Play_UI_card_get	
+	2998488892	Play_UI_card_furniture_site			\Default Work Unit\Cards\Play_UI_card_furniture_site	
+	3401316126	Play_UI_card_sand			\Default Work Unit\Cards\Play_UI_card_sand	
+	3923257964	Play_UI_card_amount			\Default Work Unit\Cards\Play_UI_card_amount	
+	4264216670	Play_UI_card_draw			\Default Work Unit\Cards\Play_UI_card_draw	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	299140631	UI_card_upgrade	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_card_upgrade_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\UI\UI_card_upgrade		409096
+	378305111	UI_card_sand	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_card_sand_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\UI\UI_card_sand		670048
+	554412742	UI_card_camera_whoosh	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_card_camera_whoosh_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\UI\UI_card_camera_whoosh		45488
+	565502008	UI_card_draw	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_card_draw_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\UI\UI_card_draw		442932
+	611656867	UI_card_amount	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_card_amount_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\UI\UI_card_amount		361524
+	741641128	UI_card_furniture_lay	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_furniture_lay_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\Item\UI_card_furniture_lay		52516
+	864989657	UI_card_get	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_card_get_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\UI\UI_card_get		166716
+	880726416	UI_card_envelope_click	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_card_envelope_click_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\UI\UI_card_envelope_click		18904
+	1036277640	UI_card_furniture_site	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Play_UI_card_furniture_site_8FBF869D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Cards\Item\UI_card_furniture_site		743210
+

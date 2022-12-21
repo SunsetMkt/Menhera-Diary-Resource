@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1171349512	Play_Guide_foley_01			\Default Work Unit\Guide\Play_Guide_foley_01	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	322865227	Guide_foley_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Guide_foley_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Guide\Guide_foley_01		4108480
+

@@ -1,0 +1,45 @@
+Event	ID	Name			Wwise Object Path	Notes
+	900866340	Play_VO_guide_zoo_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_zoo_02	
+	900866341	Play_VO_guide_zoo_03			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_zoo_03	
+	900866343	Play_VO_guide_zoo_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_zoo_01	
+	1033652266	Play_VO_guide_sayhi_04			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_04	
+	1033652268	Play_VO_guide_sayhi_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_02	
+	1033652269	Play_VO_guide_sayhi_03			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_03	
+	1033652271	Play_VO_guide_sayhi_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_01	
+	1645338300	Play_VO_guide_sayhi_00_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_00_01	
+	1645338303	Play_VO_guide_sayhi_00_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_00_02	
+	2331591261	Play_VO_guide_bag_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_bag_01	
+	2397400037	Play_VO_guide_dinner_01_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_dinner_01_01	
+	2397400038	Play_VO_guide_dinner_01_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_dinner_01_02	
+	3582487482	Play_VO_guide_dinner_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_dinner_02	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	2727617	VO_guide_dinner_01_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_dinner_01_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_01_01		1358
+	88861715	VO_guide_sayhi_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_04_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_04		1604
+	132836225	VO_guide_sayhi_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_03_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_03		1504
+	196847977	VO_guide_sayhi_00_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_00_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_00_01		1384
+	231183929	VO_guide_dinner_01_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_dinner_01_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_01_02		1340
+	592777320	VO_guide_sayhi_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_02		1413
+	602957804	VO_guide_sayhi_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_01		1463
+	646248049	VO_guide_zoo_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_zoo_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_01		1375
+	768396387	VO_guide_bag_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_bag_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_bag_01		1522
+	829484338	VO_guide_dinner_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_dinner_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_02		1918
+	896742526	VO_guide_zoo_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_zoo_03_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_03		1532
+	955038436	VO_guide_zoo_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_zoo_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_02		1837
+	1049846948	VO_guide_sayhi_00_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_00_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_00_02		1404
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	2727617	VO_guide_dinner_01_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_dinner_01_01_737634FD.wem	2727617.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_01_01	
+	88861715	VO_guide_sayhi_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_04_737634FD.wem	88861715.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_04	
+	132836225	VO_guide_sayhi_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_03_737634FD.wem	132836225.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_03	
+	196847977	VO_guide_sayhi_00_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_00_01_737634FD.wem	196847977.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_00_01	
+	231183929	VO_guide_dinner_01_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_dinner_01_02_737634FD.wem	231183929.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_01_02	
+	592777320	VO_guide_sayhi_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_02_737634FD.wem	592777320.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_02	
+	602957804	VO_guide_sayhi_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_01_737634FD.wem	602957804.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_01	
+	646248049	VO_guide_zoo_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_zoo_01_737634FD.wem	646248049.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_01	
+	768396387	VO_guide_bag_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_bag_01_737634FD.wem	768396387.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_bag_01	
+	829484338	VO_guide_dinner_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_dinner_02_737634FD.wem	829484338.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_02	
+	896742526	VO_guide_zoo_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_zoo_03_737634FD.wem	896742526.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_03	
+	955038436	VO_guide_zoo_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_zoo_02_737634FD.wem	955038436.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_02	
+	1049846948	VO_guide_sayhi_00_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_guide_sayhi_00_02_737634FD.wem	1049846948.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_00_02	
+

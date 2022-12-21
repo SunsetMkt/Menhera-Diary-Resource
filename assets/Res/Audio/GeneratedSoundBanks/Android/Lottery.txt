@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	161428072	Play_UI_lottery_award_special			\Default Work Unit\Lottery\Play_UI_lottery_award_special	
+	249948980	Play_UI_lottery_run			\Default Work Unit\Lottery\Play_UI_lottery_run	
+	1562568089	Play_UI_lottery_key10			\Default Work Unit\Lottery\Play_UI_lottery_key10	
+	2568876369	Play_UI_lottery_key3			\Default Work Unit\Lottery\Play_UI_lottery_key3	
+	2568876371	Play_UI_lottery_key1			\Default Work Unit\Lottery\Play_UI_lottery_key1	
+	2882432974	Play_UI_lottery_award_normal			\Default Work Unit\Lottery\Play_UI_lottery_award_normal	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	146449532	UI_lottery_run	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_lottery_run_FF791ABD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lottery\UI\UI_lottery_run		399636
+	234818782	UI_lottery_key10	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_lottery_key10_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lottery\UI\UI_lottery_key10		208172
+	411998075	UI_lottery_key1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_lottery_key1_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lottery\UI\UI_lottery_key1		207216
+	509137095	UI_lottery_key3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_lottery_key3_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lottery\UI\UI_lottery_key3		193192
+	774373897	UI_lottery_award_special	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_lottery_award_special_1ACF50C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lottery\UI\UI_lottery_award_special		524428
+	834806088	UI_lottery_award_normal	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_lottery_award_normal_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lottery\UI\UI_lottery_award_normal		241756
+

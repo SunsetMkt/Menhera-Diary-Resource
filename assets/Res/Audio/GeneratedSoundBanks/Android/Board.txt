@@ -1,0 +1,8 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1337070198	Play_UI_board_ability_up			\Default Work Unit\Board\Play_UI_board_ability_up	
+	1997461127	Play_UI_board_profit_get			\Default Work Unit\Board\Play_UI_board_profit_get	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	98157829	UI_board_ability_up	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_board_ability_up_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Board\UI\UI_board_ability_up		464032
+	871193640	UI_board_profit_get	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\UI_board_profit_get_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Board\UI\UI_board_profit_get		479560
+

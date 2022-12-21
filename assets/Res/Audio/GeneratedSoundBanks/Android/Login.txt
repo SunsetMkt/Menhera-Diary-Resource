@@ -1,0 +1,26 @@
+Event	ID	Name			Wwise Object Path	Notes
+	277530089	Play_AMB_yard			\Default Work Unit\Login\Play_AMB_yard	
+	1390615579	Stop_AMB_yard			\Default Work Unit\Login\Stop_AMB_yard	
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	336635799	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\Silence\Wwise Silence	
+	367491034	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_bird_Wren\Silence\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	82297554	AMB_yard_day	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_yard_day_A710C005.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_yard_day		1141734
+	126698811	AMB_bird_Wren_5	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_5_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_bird_Wren\AMB_bird_Wren_5		166546
+	127726200	AMB_CicadaSolo_4	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_4_CF32D997.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\AMB_CicadaSolo_4		88043
+	137346652	AMB_CicadaSolo_7	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_7_CF32D997.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\AMB_CicadaSolo_7		95971
+	186859071	AMB_bird_Wren_2	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_2_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_bird_Wren\AMB_bird_Wren_2		440526
+	192170995	AMB_CicadaSolo_3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_3_CF32D997.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\AMB_CicadaSolo_3		119387
+	278702139	AMB_CicadaSolo_2	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_2_CF32D997.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\AMB_CicadaSolo_2		95894
+	375683606	AMB_bird_Wren_1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_1_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_bird_Wren\AMB_bird_Wren_1		415018
+	398300819	AMB_CicadaSolo_8	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_8_CF32D997.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\AMB_CicadaSolo_8		196969
+	407721595	AMB_bird_Wren_6	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_6_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_bird_Wren\AMB_bird_Wren_6		180026
+	440290405	AMB_CicadaSolo_5	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_5_CF32D997.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\AMB_CicadaSolo_5		71157
+	477592622	AMB_CicadaSolo_1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_1_CF32D997.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\AMB_CicadaSolo_1		50389
+	516694127	AMB_bird_Wren_3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_3_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_bird_Wren\AMB_bird_Wren_3		137190
+	519516891	AMB_yard_pool	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_yard_pool_A710C005.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_yard_pool		1630178
+	596870913	AMB_bird_Wren_4	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_4_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_bird_Wren\AMB_bird_Wren_4		181892
+	826544738	AMB_CicadaSolo_6	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_6_CF32D997.wem		\Actor-Mixer Hierarchy\Default Work Unit\Login\AMB_yard\AMB_cicadaSolo\AMB_CicadaSolo_6		77855
+

@@ -1,0 +1,651 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4851384	Play_VO_card_103005_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_03	
+	4851385	Play_VO_card_103005_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_02	
+	4851386	Play_VO_card_103005_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_01	
+	4851390	Play_VO_card_103005_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_05	
+	4851391	Play_VO_card_103005_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_04	
+	6654752	Play_VO_card_101004_02			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_02	
+	6654753	Play_VO_card_101004_03			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_03	
+	6654755	Play_VO_card_101004_01			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_01	
+	6654756	Play_VO_card_101004_06			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_06	
+	6654758	Play_VO_card_101004_04			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_04	
+	6654759	Play_VO_card_101004_05			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_05	
+	157919760	Play_VO_card_102009_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102009_02	
+	157919761	Play_VO_card_102009_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102009_03	
+	157919763	Play_VO_card_102009_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102009_01	
+	306419096	Play_VO_card_104011_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_05	
+	306419097	Play_VO_card_104011_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_04	
+	306419100	Play_VO_card_104011_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_01	
+	306419102	Play_VO_card_104011_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_03	
+	306419103	Play_VO_card_104011_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_02	
+	369707968	Play_VO_card_104005_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_04	
+	369707969	Play_VO_card_104005_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_05	
+	369707973	Play_VO_card_104005_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_01	
+	369707974	Play_VO_card_104005_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_02	
+	369707975	Play_VO_card_104005_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_03	
+	461385002	Play_VO_card_104004_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_05	
+	461385003	Play_VO_card_104004_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_04	
+	461385004	Play_VO_card_104004_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_03	
+	461385005	Play_VO_card_104004_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_02	
+	461385006	Play_VO_card_104004_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_01	
+	500218864	Play_VO_card_104013_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_03	
+	500218865	Play_VO_card_104013_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_02	
+	500218866	Play_VO_card_104013_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_01	
+	500218870	Play_VO_card_104013_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_05	
+	500218871	Play_VO_card_104013_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_04	
+	562322304	Play_VO_card_103011_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_02	
+	562322305	Play_VO_card_103011_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_03	
+	562322307	Play_VO_card_103011_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_01	
+	562322310	Play_VO_card_103011_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_04	
+	562322311	Play_VO_card_103011_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_05	
+	714746544	Play_VO_card_103003_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_01	
+	714746546	Play_VO_card_103003_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_03	
+	714746547	Play_VO_card_103003_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_02	
+	714746548	Play_VO_card_103003_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_05	
+	714746549	Play_VO_card_103003_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_04	
+	850068296	Play_VO_card_102001_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102001_02	
+	850068297	Play_VO_card_102001_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102001_03	
+	850068299	Play_VO_card_102001_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102001_01	
+	913656180	Play_VO_card_102006_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102006_03	
+	913656181	Play_VO_card_102006_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102006_02	
+	913656182	Play_VO_card_102006_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102006_01	
+	995227048	Play_VO_card_104002_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_05	
+	995227049	Play_VO_card_104002_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_04	
+	995227052	Play_VO_card_104002_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_01	
+	995227054	Play_VO_card_104002_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_03	
+	995227055	Play_VO_card_104002_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_02	
+	1033525473	Play_VO_card_102003_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102003_01	
+	1033525474	Play_VO_card_102003_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102003_02	
+	1033525475	Play_VO_card_102003_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102003_03	
+	1118437050	Play_VO_card_104014_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_04	
+	1118437051	Play_VO_card_104014_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_05	
+	1118437052	Play_VO_card_104014_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_02	
+	1118437053	Play_VO_card_104014_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_03	
+	1118437055	Play_VO_card_104014_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_01	
+	1180540488	Play_VO_card_103010_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_05	
+	1180540489	Play_VO_card_103010_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_04	
+	1180540492	Play_VO_card_103010_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_01	
+	1180540494	Play_VO_card_103010_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_03	
+	1180540495	Play_VO_card_103010_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_02	
+	1231826225	Play_VO_card_104009_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_01	
+	1231826226	Play_VO_card_104009_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_02	
+	1231826227	Play_VO_card_104009_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_03	
+	1231826228	Play_VO_card_104009_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_04	
+	1231826229	Play_VO_card_104009_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_05	
+	1332763552	Play_VO_card_103012_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_03	
+	1332763553	Play_VO_card_103012_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_02	
+	1332763554	Play_VO_card_103012_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_01	
+	1332763558	Play_VO_card_103012_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_05	
+	1332763559	Play_VO_card_103012_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_04	
+	1396962789	Play_VO_card_102010_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102010_01	
+	1396962790	Play_VO_card_102010_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102010_02	
+	1396962791	Play_VO_card_102010_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102010_03	
+	1445429954	Play_VO_card_103001_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_05	
+	1445429955	Play_VO_card_103001_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_04	
+	1445429956	Play_VO_card_103001_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_03	
+	1445429957	Play_VO_card_103001_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_02	
+	1445429958	Play_VO_card_103001_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_01	
+	1473622368	Play_VO_card_103007_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_05	
+	1473622369	Play_VO_card_103007_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_04	
+	1473622372	Play_VO_card_103007_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_01	
+	1473622374	Play_VO_card_103007_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_03	
+	1473622375	Play_VO_card_103007_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_02	
+	1507779416	Play_VO_card_101001_01			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_01	
+	1507779418	Play_VO_card_101001_03			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_03	
+	1507779419	Play_VO_card_101001_02			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_02	
+	1507779420	Play_VO_card_101001_05			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_05	
+	1507779421	Play_VO_card_101001_04			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_04	
+	1507779423	Play_VO_card_101001_06			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_06	
+	1662086248	Play_VO_card_102002_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102002_03	
+	1662086249	Play_VO_card_102002_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102002_02	
+	1662086250	Play_VO_card_102002_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102002_01	
+	1722632308	Play_VO_card_102005_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102005_02	
+	1722632309	Play_VO_card_102005_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102005_03	
+	1722632311	Play_VO_card_102005_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102005_01	
+	1807543856	Play_VO_card_104016_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_04	
+	1807543857	Play_VO_card_104016_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_05	
+	1807543861	Play_VO_card_104016_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_01	
+	1807543862	Play_VO_card_104016_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_02	
+	1807543863	Play_VO_card_104016_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_03	
+	1825290384	Play_VO_card_104010_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_02	
+	1825290385	Play_VO_card_104010_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_03	
+	1825290387	Play_VO_card_104010_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_01	
+	1825290390	Play_VO_card_104010_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_04	
+	1825290391	Play_VO_card_104010_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_05	
+	1870832760	Play_VO_card_104008_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_03	
+	1870832761	Play_VO_card_104008_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_02	
+	1870832762	Play_VO_card_104008_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_01	
+	1870832766	Play_VO_card_104008_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_05	
+	1870832767	Play_VO_card_104008_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_04	
+	1888878170	Play_VO_card_104017_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_05	
+	1888878171	Play_VO_card_104017_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_04	
+	1888878172	Play_VO_card_104017_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_03	
+	1888878173	Play_VO_card_104017_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_02	
+	1888878174	Play_VO_card_104017_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_01	
+	2125997568	Play_VO_card_101002_04			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_04	
+	2125997569	Play_VO_card_101002_05			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_05	
+	2125997570	Play_VO_card_101002_06			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_06	
+	2125997573	Play_VO_card_101002_01			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_01	
+	2125997574	Play_VO_card_101002_02			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_02	
+	2125997575	Play_VO_card_101002_03			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_03	
+	2217674601	Play_VO_card_101003_06			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_06	
+	2217674602	Play_VO_card_101003_05			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_05	
+	2217674603	Play_VO_card_101003_04			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_04	
+	2217674604	Play_VO_card_101003_03			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_03	
+	2217674605	Play_VO_card_101003_02			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_02	
+	2217674606	Play_VO_card_101003_01			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_01	
+	2244063490	Play_VO_card_103002_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_04	
+	2244063491	Play_VO_card_103002_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_05	
+	2244063492	Play_VO_card_103002_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_02	
+	2244063493	Play_VO_card_103002_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_03	
+	2244063495	Play_VO_card_103002_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_01	
+	2351193056	Play_VO_card_102004_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102004_01	
+	2351193058	Play_VO_card_102004_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102004_03	
+	2351193059	Play_VO_card_102004_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102004_02	
+	2432527373	Play_VO_card_102007_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102007_01	
+	2432527374	Play_VO_card_102007_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102007_02	
+	2432527375	Play_VO_card_102007_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102007_03	
+	2545332448	Play_VO_card_104003_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_02	
+	2545332449	Play_VO_card_104003_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_03	
+	2545332451	Play_VO_card_104003_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_01	
+	2545332454	Play_VO_card_104003_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_04	
+	2545332455	Play_VO_card_104003_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_05	
+	2555973929	Play_VO_card_104012_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_01	
+	2555973930	Play_VO_card_104012_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_02	
+	2555973931	Play_VO_card_104012_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_03	
+	2555973932	Play_VO_card_104012_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_04	
+	2555973933	Play_VO_card_104012_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_05	
+	2798693888	Play_VO_card_103008_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_04	
+	2798693889	Play_VO_card_103008_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_05	
+	2798693893	Play_VO_card_103008_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_01	
+	2798693894	Play_VO_card_103008_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_02	
+	2798693895	Play_VO_card_103008_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_03	
+	2824157100	Play_VO_card_102012_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102012_02	
+	2824157101	Play_VO_card_102012_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102012_03	
+	2824157103	Play_VO_card_102012_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102012_01	
+	2890370922	Play_VO_card_103009_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_05	
+	2890370923	Play_VO_card_103009_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_04	
+	2890370924	Play_VO_card_103009_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_03	
+	2890370925	Play_VO_card_103009_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_02	
+	2890370926	Play_VO_card_103009_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_01	
+	2905491512	Play_VO_card_102013_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102013_01	
+	2905491514	Play_VO_card_102013_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102013_03	
+	2905491515	Play_VO_card_102013_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102013_02	
+	2934015772	Play_VO_card_102008_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102008_01	
+	2934015774	Play_VO_card_102008_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102008_03	
+	2934015775	Play_VO_card_102008_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102008_02	
+	3234439289	Play_VO_card_104001_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_01	
+	3234439290	Play_VO_card_104001_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_02	
+	3234439291	Play_VO_card_104001_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_03	
+	3234439292	Play_VO_card_104001_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_04	
+	3234439293	Play_VO_card_104001_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_05	
+	3326415048	Play_VO_card_104015_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_01	
+	3326415050	Play_VO_card_104015_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_03	
+	3326415051	Play_VO_card_104015_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_02	
+	3326415052	Play_VO_card_104015_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_05	
+	3326415053	Play_VO_card_104015_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_04	
+	3419752729	Play_VO_card_103013_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_01	
+	3419752730	Play_VO_card_103013_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_02	
+	3419752731	Play_VO_card_103013_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_03	
+	3419752732	Play_VO_card_103013_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_04	
+	3419752733	Play_VO_card_103013_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_05	
+	3529377432	Play_VO_card_103006_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_02	
+	3529377433	Play_VO_card_103006_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_03	
+	3529377435	Play_VO_card_103006_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_01	
+	3529377438	Play_VO_card_103006_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_04	
+	3529377439	Play_VO_card_103006_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_05	
+	3636174924	Play_VO_card_102011_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102011_03	
+	3636174925	Play_VO_card_102011_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102011_02	
+	3636174926	Play_VO_card_102011_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102011_01	
+	3702388849	Play_VO_card_103004_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_01	
+	3702388850	Play_VO_card_103004_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_02	
+	3702388851	Play_VO_card_103004_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_03	
+	3702388852	Play_VO_card_103004_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_04	
+	3702388853	Play_VO_card_103004_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_05	
+	3944334346	Play_VO_card_104007_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_04	
+	3944334347	Play_VO_card_104007_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_05	
+	3944334348	Play_VO_card_104007_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_02	
+	3944334349	Play_VO_card_104007_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_03	
+	3944334351	Play_VO_card_104007_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_01	
+	4046457112	Play_VO_card_104006_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_01	
+	4046457114	Play_VO_card_104006_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_03	
+	4046457115	Play_VO_card_104006_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_02	
+	4046457116	Play_VO_card_104006_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_05	
+	4046457117	Play_VO_card_104006_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_04	
+	4108859562	Play_VO_card_103015_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_04	
+	4108859563	Play_VO_card_103015_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_05	
+	4108859564	Play_VO_card_103015_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_02	
+	4108859565	Play_VO_card_103015_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_03	
+	4108859567	Play_VO_card_103015_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_01	
+	4190193976	Play_VO_card_103014_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_01	
+	4190193978	Play_VO_card_103014_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_03	
+	4190193979	Play_VO_card_103014_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_02	
+	4190193980	Play_VO_card_103014_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_05	
+	4190193981	Play_VO_card_103014_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_04	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5795369	VO_card_104007_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_02		1623
+	8659495	VO_card_104012_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_02		323
+	11993294	VO_card_102002_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102002_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_02		1720
+	19191789	VO_card_102009_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102009_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_01		1721
+	25713325	VO_card_104002_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_03		1696
+	45754375	VO_card_102013_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102013_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_01		1325
+	53543281	VO_card_103010_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_03		1679
+	58432203	VO_card_103007_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_01		1608
+	63288328	VO_card_104010_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_01		323
+	63368272	VO_card_103013_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_01		1587
+	68732870	VO_card_104015_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_03		323
+	70663855	VO_card_104013_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_05		323
+	86321328	VO_card_103005_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_04		1255
+	88086154	VO_card_104015_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_04		323
+	94245114	VO_card_103013_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_04		1314
+	102864487	VO_card_103011_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_03		1307
+	103677237	VO_card_104009_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_01		1718
+	104981415	VO_card_104011_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_05		323
+	108709194	VO_card_103003_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_02		1701
+	114899761	VO_card_104007_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_05		1369
+	120985132	VO_card_103006_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_05		1379
+	124298978	VO_card_103002_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_02		1706
+	146792672	VO_card_103014_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_05		1731
+	152978601	VO_card_104010_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_04		323
+	154633274	VO_card_102004_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102004_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_02		1678
+	160375996	VO_card_104017_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_01		323
+	161000406	VO_card_103007_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_03		1804
+	167381406	VO_card_103005_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_03		1329
+	168934074	VO_card_102007_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102007_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_03		1710
+	168980725	VO_card_101004_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101004_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_01		1348
+	171344687	VO_card_104008_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_04		1358
+	197210000	VO_card_102010_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102010_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_02		2031
+	201791932	VO_card_101002_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101002_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_02		1725
+	232618269	VO_card_104010_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_03		323
+	232939245	VO_card_103015_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_04		323
+	235090463	VO_card_104009_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_05		1282
+	247073657	VO_card_101001_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101001_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_03		1315
+	256320457	VO_card_104016_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_04		323
+	258585795	VO_card_104014_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_02		323
+	261204291	VO_card_104016_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_05		323
+	264091174	VO_card_102003_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102003_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_03		1555
+	273525372	VO_card_102004_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102004_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_01		1526
+	276567620	VO_card_104010_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_02		323
+	277493002	VO_card_102002_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102002_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_01		1727
+	277748072	VO_card_104010_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_05		323
+	279768518	VO_card_103013_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_05		1527
+	287343376	VO_card_103006_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_04		1859
+	287746571	VO_card_103010_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_04		1674
+	289498103	VO_card_103004_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_04		1828
+	293860945	VO_card_104004_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_01		1581
+	300215441	VO_card_103013_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_03		1692
+	314880678	VO_card_103001_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_02		1673
+	316931885	VO_card_103004_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_02		1828
+	318579489	VO_card_104001_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_04		1750
+	319589136	VO_card_103002_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_01		1553
+	323509551	VO_card_103015_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_03		323
+	324471052	VO_card_102006_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102006_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_01		2003
+	327088447	VO_card_103014_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_01		1357
+	334858327	VO_card_103004_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_03		1535
+	341865208	VO_card_104016_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_03		323
+	344147350	VO_card_104008_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_01		1692
+	345013109	VO_card_103007_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_05		1250
+	361713212	VO_card_101003_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101003_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_03		1360
+	361754172	VO_card_104008_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_05		1309
+	399712031	VO_card_103007_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_04		1350
+	408768514	VO_card_101001_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101001_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_01		1763
+	412428098	VO_card_103010_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_05		1637
+	413077198	VO_card_104008_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_03		1805
+	416654503	VO_card_102011_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102011_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_03		1750
+	418562619	VO_card_103015_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_01		323
+	427254031	VO_card_102013_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102013_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_03		1697
+	427969372	VO_card_104002_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_04		1463
+	435540726	VO_card_104012_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_05		323
+	449989242	VO_card_103001_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_01		1821
+	450640520	VO_card_104013_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_02		323
+	458399933	VO_card_103004_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_05		2071
+	460239031	VO_card_103003_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_04		1360
+	464570261	VO_card_103014_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_03		1533
+	465938592	VO_card_104009_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_04		1605
+	466019994	VO_card_104005_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_01		1485
+	471625759	VO_card_101002_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101002_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_03		1258
+	473976198	VO_card_103011_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_04		1324
+	477543400	VO_card_102010_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102010_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_01		1675
+	479081971	VO_card_102008_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102008_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_01		1723
+	479246204	VO_card_103003_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_03		1383
+	491590429	VO_card_104003_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_04		1352
+	494223332	VO_card_103006_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_03		1774
+	495959200	VO_card_102012_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102012_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_03		1822
+	515013261	VO_card_104014_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_03		323
+	518135080	VO_card_103005_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_01		1818
+	518566087	VO_card_104009_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_02		1681
+	534024004	VO_card_103005_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_05		1834
+	574780201	VO_card_104016_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_02		323
+	579425574	VO_card_104005_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_03		1366
+	592051803	VO_card_102006_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102006_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_02		1237
+	594621506	VO_card_104003_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_02		1762
+	605283814	VO_card_104004_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_02		1845
+	605825586	VO_card_102013_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102013_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_02		1669
+	609244879	VO_card_104013_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_04		323
+	610921870	VO_card_104013_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_03		323
+	612251067	VO_card_104004_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_03		1767
+	616820543	VO_card_104017_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_05		323
+	617239408	VO_card_104015_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_02		323
+	619847225	VO_card_103015_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_05		323
+	622390456	VO_card_102007_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102007_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_02		1315
+	624285567	VO_card_104017_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_03		323
+	640756557	VO_card_103006_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_01		1383
+	643271987	VO_card_104017_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_04		323
+	643989289	VO_card_104007_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_04		1398
+	648731875	VO_card_104002_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_01		1642
+	649025747	VO_card_104015_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_01		323
+	649195280	VO_card_101004_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101004_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_02		1519
+	650518688	VO_card_102004_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102004_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_03		1345
+	659226099	VO_card_104006_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_04		1960
+	659992694	VO_card_103010_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_01		1774
+	665284240	VO_card_102005_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102005_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_03		1640
+	667080649	VO_card_103009_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_02		1577
+	673592608	VO_card_104003_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_03		1383
+	676186935	VO_card_104006_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_01		1807
+	677918533	VO_card_103015_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_02		323
+	694777778	VO_card_103007_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_02		1888
+	700329595	VO_card_102011_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102011_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_02		1740
+	710909281	VO_card_104014_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_01		323
+	711655038	VO_card_103004_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_01		1332
+	713704483	VO_card_104012_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_01		323
+	718048042	VO_card_102007_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102007_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_01		1680
+	719106130	VO_card_104004_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_04		1661
+	724293149	VO_card_102011_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102011_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_01		1730
+	727835660	VO_card_104017_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_02		323
+	731744643	VO_card_103012_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_01		1602
+	733487968	VO_card_104004_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_05		1417
+	737800912	VO_card_102009_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102009_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_03		1269
+	739837921	VO_card_103013_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_02		1554
+	742223933	VO_card_104007_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_01		1938
+	743054183	VO_card_103014_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_04		1815
+	743150382	VO_card_104001_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_05		1355
+	743283238	VO_card_103009_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_04		1870
+	747154163	VO_card_102012_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102012_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_02		1796
+	748627507	VO_card_102001_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102001_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_01		1670
+	749440231	VO_card_103002_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_05		1797
+	757224052	VO_card_103002_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_04		1787
+	770323852	VO_card_104011_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_01		323
+	776413422	VO_card_103008_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_03		1759
+	778988687	VO_card_103009_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_01		1835
+	779961679	VO_card_103009_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_03		1867
+	780934392	VO_card_101001_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101001_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_02		1724
+	786565378	VO_card_104006_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_02		1819
+	789994979	VO_card_104001_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_02		1863
+	791347001	VO_card_102003_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102003_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_02		1748
+	792671852	VO_card_103008_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_02		1747
+	792957171	VO_card_103001_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_03		1801
+	817082984	VO_card_101004_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101004_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_03		1896
+	817916477	VO_card_104003_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_01		1699
+	820899347	VO_card_104012_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_03		323
+	825725772	VO_card_104005_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_02		1815
+	827063257	VO_card_103005_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_02		1364
+	827847209	VO_card_103008_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_01		1259
+	828891468	VO_card_103010_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_02		1667
+	831103236	VO_card_102001_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102001_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_02		1286
+	834915002	VO_card_102008_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102008_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_02		1607
+	835226811	VO_card_104013_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_01		323
+	852919093	VO_card_104001_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_01		1314
+	855928618	VO_card_104012_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_04		323
+	857457061	VO_card_103002_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_03		1303
+	861430429	VO_card_104015_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_05		323
+	863567940	VO_card_103003_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_01		1508
+	866245345	VO_card_102001_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102001_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_03		1356
+	867191307	VO_card_101003_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101003_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_01		1339
+	869073566	VO_card_103008_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_05		1623
+	872523914	VO_card_104002_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_05		1698
+	872657719	VO_card_102012_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102012_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_01		1548
+	875549910	VO_card_104016_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_01		323
+	885777119	VO_card_104011_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_02		323
+	885839391	VO_card_103006_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_02		1685
+	886067860	VO_card_102003_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102003_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_01		1318
+	900855244	VO_card_104007_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_03		1800
+	912717025	VO_card_102009_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102009_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_02		1483
+	915594468	VO_card_103001_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_04		1319
+	916492171	VO_card_101003_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101003_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_02		1441
+	930951759	VO_card_102005_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102005_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_02		1338
+	931811357	VO_card_103012_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_03		1667
+	938478873	VO_card_103001_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_05		1583
+	943538180	VO_card_104001_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_03		1654
+	944486822	VO_card_104006_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_03		1755
+	946421932	VO_card_103014_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_02		1450
+	948571200	VO_card_102002_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102002_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_03		1350
+	950406360	VO_card_102006_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102006_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_03		1782
+	953887791	VO_card_104008_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_02		1279
+	956924662	VO_card_104005_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_04		1927
+	960094859	VO_card_103008_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_04		1637
+	962135179	VO_card_102010_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102010_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_03		1809
+	972734126	VO_card_104005_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_05		1264
+	990126044	VO_card_104011_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_03		323
+	996464554	VO_card_104014_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_05		323
+	1000942966	VO_card_104011_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_04		323
+	1005523694	VO_card_103012_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_05		1695
+	1015009861	VO_card_101002_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101002_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_01		1706
+	1015497603	VO_card_103011_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_05		1633
+	1022704051	VO_card_103011_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_01		1592
+	1024350438	VO_card_102005_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102005_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_01		1961
+	1031076599	VO_card_103009_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_05		1362
+	1031712637	VO_card_103012_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_04		1616
+	1032796109	VO_card_102008_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102008_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_03		1638
+	1040006327	VO_card_104006_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_05		1353
+	1045292596	VO_card_104014_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_04		323
+	1051226256	VO_card_104002_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_02		1403
+	1053495927	VO_card_103003_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_05		1863
+	1057383264	VO_card_103011_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_02		1799
+	1060385367	VO_card_103012_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_02		1697
+	1064345068	VO_card_104003_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_05		1661
+	1068073693	VO_card_104009_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_03		1776
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	5795369	VO_card_104007_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_02_E4667FBD.wem	5795369.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_02	
+	8659495	VO_card_104012_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_02_E4667FBD.wem	8659495.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_02	
+	11993294	VO_card_102002_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102002_02_E4667FBD.wem	11993294.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_02	
+	19191789	VO_card_102009_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102009_01_E4667FBD.wem	19191789.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_01	
+	25713325	VO_card_104002_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_03_E4667FBD.wem	25713325.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_03	
+	45754375	VO_card_102013_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102013_01_E4667FBD.wem	45754375.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_01	
+	53543281	VO_card_103010_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_03_E4667FBD.wem	53543281.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_03	
+	58432203	VO_card_103007_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_01_E4667FBD.wem	58432203.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_01	
+	63288328	VO_card_104010_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_01_E4667FBD.wem	63288328.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_01	
+	63368272	VO_card_103013_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_01_E4667FBD.wem	63368272.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_01	
+	68732870	VO_card_104015_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_03_E4667FBD.wem	68732870.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_03	
+	70663855	VO_card_104013_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_05_E4667FBD.wem	70663855.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_05	
+	86321328	VO_card_103005_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_04_E4667FBD.wem	86321328.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_04	
+	88086154	VO_card_104015_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_04_E4667FBD.wem	88086154.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_04	
+	94245114	VO_card_103013_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_04_E4667FBD.wem	94245114.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_04	
+	102864487	VO_card_103011_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_03_E4667FBD.wem	102864487.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_03	
+	103677237	VO_card_104009_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_01_E4667FBD.wem	103677237.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_01	
+	104981415	VO_card_104011_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_05_E4667FBD.wem	104981415.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_05	
+	108709194	VO_card_103003_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_02_E4667FBD.wem	108709194.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_02	
+	114899761	VO_card_104007_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_05_E4667FBD.wem	114899761.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_05	
+	120985132	VO_card_103006_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_05_E4667FBD.wem	120985132.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_05	
+	124298978	VO_card_103002_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_02_E4667FBD.wem	124298978.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_02	
+	146792672	VO_card_103014_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_05_E4667FBD.wem	146792672.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_05	
+	152978601	VO_card_104010_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_04_E4667FBD.wem	152978601.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_04	
+	154633274	VO_card_102004_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102004_02_E4667FBD.wem	154633274.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_02	
+	160375996	VO_card_104017_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_01_E4667FBD.wem	160375996.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_01	
+	161000406	VO_card_103007_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_03_E4667FBD.wem	161000406.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_03	
+	167381406	VO_card_103005_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_03_E4667FBD.wem	167381406.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_03	
+	168934074	VO_card_102007_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102007_03_E4667FBD.wem	168934074.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_03	
+	168980725	VO_card_101004_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101004_01_E4667FBD.wem	168980725.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_01	
+	171344687	VO_card_104008_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_04_E4667FBD.wem	171344687.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_04	
+	197210000	VO_card_102010_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102010_02_E4667FBD.wem	197210000.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_02	
+	201791932	VO_card_101002_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101002_02_E4667FBD.wem	201791932.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_02	
+	232618269	VO_card_104010_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_03_E4667FBD.wem	232618269.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_03	
+	232939245	VO_card_103015_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_04_E4667FBD.wem	232939245.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_04	
+	235090463	VO_card_104009_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_05_E4667FBD.wem	235090463.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_05	
+	247073657	VO_card_101001_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101001_03_E4667FBD.wem	247073657.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_03	
+	256320457	VO_card_104016_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_04_E4667FBD.wem	256320457.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_04	
+	258585795	VO_card_104014_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_02_E4667FBD.wem	258585795.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_02	
+	261204291	VO_card_104016_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_05_E4667FBD.wem	261204291.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_05	
+	264091174	VO_card_102003_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102003_03_E4667FBD.wem	264091174.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_03	
+	273525372	VO_card_102004_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102004_01_E4667FBD.wem	273525372.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_01	
+	276567620	VO_card_104010_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_02_E4667FBD.wem	276567620.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_02	
+	277493002	VO_card_102002_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102002_01_E4667FBD.wem	277493002.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_01	
+	277748072	VO_card_104010_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104010_05_E4667FBD.wem	277748072.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_05	
+	279768518	VO_card_103013_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_05_E4667FBD.wem	279768518.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_05	
+	287343376	VO_card_103006_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_04_E4667FBD.wem	287343376.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_04	
+	287746571	VO_card_103010_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_04_E4667FBD.wem	287746571.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_04	
+	289498103	VO_card_103004_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_04_E4667FBD.wem	289498103.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_04	
+	293860945	VO_card_104004_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_01_E4667FBD.wem	293860945.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_01	
+	300215441	VO_card_103013_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_03_E4667FBD.wem	300215441.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_03	
+	314880678	VO_card_103001_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_02_E4667FBD.wem	314880678.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_02	
+	316931885	VO_card_103004_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_02_E4667FBD.wem	316931885.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_02	
+	318579489	VO_card_104001_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_04_E4667FBD.wem	318579489.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_04	
+	319589136	VO_card_103002_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_01_E4667FBD.wem	319589136.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_01	
+	323509551	VO_card_103015_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_03_E4667FBD.wem	323509551.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_03	
+	324471052	VO_card_102006_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102006_01_E4667FBD.wem	324471052.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_01	
+	327088447	VO_card_103014_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_01_E4667FBD.wem	327088447.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_01	
+	334858327	VO_card_103004_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_03_E4667FBD.wem	334858327.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_03	
+	341865208	VO_card_104016_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_03_E4667FBD.wem	341865208.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_03	
+	344147350	VO_card_104008_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_01_E4667FBD.wem	344147350.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_01	
+	345013109	VO_card_103007_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_05_E4667FBD.wem	345013109.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_05	
+	361713212	VO_card_101003_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101003_03_E4667FBD.wem	361713212.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_03	
+	361754172	VO_card_104008_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_05_E4667FBD.wem	361754172.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_05	
+	399712031	VO_card_103007_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_04_E4667FBD.wem	399712031.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_04	
+	408768514	VO_card_101001_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101001_01_E4667FBD.wem	408768514.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_01	
+	412428098	VO_card_103010_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_05_E4667FBD.wem	412428098.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_05	
+	413077198	VO_card_104008_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_03_E4667FBD.wem	413077198.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_03	
+	416654503	VO_card_102011_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102011_03_E4667FBD.wem	416654503.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_03	
+	418562619	VO_card_103015_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_01_E4667FBD.wem	418562619.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_01	
+	427254031	VO_card_102013_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102013_03_E4667FBD.wem	427254031.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_03	
+	427969372	VO_card_104002_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_04_E4667FBD.wem	427969372.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_04	
+	435540726	VO_card_104012_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_05_E4667FBD.wem	435540726.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_05	
+	449989242	VO_card_103001_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_01_E4667FBD.wem	449989242.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_01	
+	450640520	VO_card_104013_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_02_E4667FBD.wem	450640520.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_02	
+	458399933	VO_card_103004_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_05_E4667FBD.wem	458399933.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_05	
+	460239031	VO_card_103003_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_04_E4667FBD.wem	460239031.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_04	
+	464570261	VO_card_103014_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_03_E4667FBD.wem	464570261.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_03	
+	465938592	VO_card_104009_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_04_E4667FBD.wem	465938592.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_04	
+	466019994	VO_card_104005_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_01_E4667FBD.wem	466019994.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_01	
+	471625759	VO_card_101002_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101002_03_E4667FBD.wem	471625759.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_03	
+	473976198	VO_card_103011_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_04_E4667FBD.wem	473976198.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_04	
+	477543400	VO_card_102010_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102010_01_E4667FBD.wem	477543400.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_01	
+	479081971	VO_card_102008_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102008_01_E4667FBD.wem	479081971.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_01	
+	479246204	VO_card_103003_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_03_E4667FBD.wem	479246204.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_03	
+	491590429	VO_card_104003_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_04_E4667FBD.wem	491590429.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_04	
+	494223332	VO_card_103006_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_03_E4667FBD.wem	494223332.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_03	
+	495959200	VO_card_102012_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102012_03_E4667FBD.wem	495959200.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_03	
+	515013261	VO_card_104014_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_03_E4667FBD.wem	515013261.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_03	
+	518135080	VO_card_103005_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_01_E4667FBD.wem	518135080.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_01	
+	518566087	VO_card_104009_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_02_E4667FBD.wem	518566087.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_02	
+	534024004	VO_card_103005_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_05_E4667FBD.wem	534024004.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_05	
+	574780201	VO_card_104016_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_02_E4667FBD.wem	574780201.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_02	
+	579425574	VO_card_104005_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_03_E4667FBD.wem	579425574.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_03	
+	592051803	VO_card_102006_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102006_02_E4667FBD.wem	592051803.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_02	
+	594621506	VO_card_104003_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_02_E4667FBD.wem	594621506.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_02	
+	605283814	VO_card_104004_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_02_E4667FBD.wem	605283814.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_02	
+	605825586	VO_card_102013_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102013_02_E4667FBD.wem	605825586.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_02	
+	609244879	VO_card_104013_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_04_E4667FBD.wem	609244879.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_04	
+	610921870	VO_card_104013_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_03_E4667FBD.wem	610921870.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_03	
+	612251067	VO_card_104004_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_03_E4667FBD.wem	612251067.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_03	
+	616820543	VO_card_104017_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_05_E4667FBD.wem	616820543.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_05	
+	617239408	VO_card_104015_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_02_E4667FBD.wem	617239408.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_02	
+	619847225	VO_card_103015_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_05_E4667FBD.wem	619847225.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_05	
+	622390456	VO_card_102007_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102007_02_E4667FBD.wem	622390456.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_02	
+	624285567	VO_card_104017_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_03_E4667FBD.wem	624285567.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_03	
+	640756557	VO_card_103006_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_01_E4667FBD.wem	640756557.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_01	
+	643271987	VO_card_104017_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_04_E4667FBD.wem	643271987.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_04	
+	643989289	VO_card_104007_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_04_E4667FBD.wem	643989289.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_04	
+	648731875	VO_card_104002_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_01_E4667FBD.wem	648731875.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_01	
+	649025747	VO_card_104015_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_01_E4667FBD.wem	649025747.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_01	
+	649195280	VO_card_101004_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101004_02_E4667FBD.wem	649195280.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_02	
+	650518688	VO_card_102004_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102004_03_E4667FBD.wem	650518688.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_03	
+	659226099	VO_card_104006_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_04_E4667FBD.wem	659226099.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_04	
+	659992694	VO_card_103010_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_01_E4667FBD.wem	659992694.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_01	
+	665284240	VO_card_102005_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102005_03_E4667FBD.wem	665284240.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_03	
+	667080649	VO_card_103009_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_02_E4667FBD.wem	667080649.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_02	
+	673592608	VO_card_104003_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_03_E4667FBD.wem	673592608.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_03	
+	676186935	VO_card_104006_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_01_E4667FBD.wem	676186935.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_01	
+	677918533	VO_card_103015_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103015_02_E4667FBD.wem	677918533.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_02	
+	694777778	VO_card_103007_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103007_02_E4667FBD.wem	694777778.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_02	
+	700329595	VO_card_102011_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102011_02_E4667FBD.wem	700329595.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_02	
+	710909281	VO_card_104014_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_01_E4667FBD.wem	710909281.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_01	
+	711655038	VO_card_103004_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103004_01_E4667FBD.wem	711655038.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_01	
+	713704483	VO_card_104012_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_01_E4667FBD.wem	713704483.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_01	
+	718048042	VO_card_102007_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102007_01_E4667FBD.wem	718048042.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_01	
+	719106130	VO_card_104004_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_04_E4667FBD.wem	719106130.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_04	
+	724293149	VO_card_102011_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102011_01_E4667FBD.wem	724293149.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_01	
+	727835660	VO_card_104017_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104017_02_E4667FBD.wem	727835660.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_02	
+	731744643	VO_card_103012_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_01_E4667FBD.wem	731744643.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_01	
+	733487968	VO_card_104004_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104004_05_E4667FBD.wem	733487968.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_05	
+	737800912	VO_card_102009_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102009_03_E4667FBD.wem	737800912.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_03	
+	739837921	VO_card_103013_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103013_02_E4667FBD.wem	739837921.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_02	
+	742223933	VO_card_104007_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_01_E4667FBD.wem	742223933.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_01	
+	743054183	VO_card_103014_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_04_E4667FBD.wem	743054183.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_04	
+	743150382	VO_card_104001_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_05_E4667FBD.wem	743150382.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_05	
+	743283238	VO_card_103009_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_04_E4667FBD.wem	743283238.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_04	
+	747154163	VO_card_102012_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102012_02_E4667FBD.wem	747154163.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_02	
+	748627507	VO_card_102001_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102001_01_E4667FBD.wem	748627507.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_01	
+	749440231	VO_card_103002_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_05_E4667FBD.wem	749440231.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_05	
+	757224052	VO_card_103002_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_04_E4667FBD.wem	757224052.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_04	
+	770323852	VO_card_104011_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_01_E4667FBD.wem	770323852.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_01	
+	776413422	VO_card_103008_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_03_E4667FBD.wem	776413422.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_03	
+	778988687	VO_card_103009_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_01_E4667FBD.wem	778988687.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_01	
+	779961679	VO_card_103009_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_03_E4667FBD.wem	779961679.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_03	
+	780934392	VO_card_101001_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101001_02_E4667FBD.wem	780934392.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_02	
+	786565378	VO_card_104006_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_02_E4667FBD.wem	786565378.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_02	
+	789994979	VO_card_104001_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_02_E4667FBD.wem	789994979.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_02	
+	791347001	VO_card_102003_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102003_02_E4667FBD.wem	791347001.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_02	
+	792671852	VO_card_103008_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_02_E4667FBD.wem	792671852.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_02	
+	792957171	VO_card_103001_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_03_E4667FBD.wem	792957171.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_03	
+	817082984	VO_card_101004_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101004_03_E4667FBD.wem	817082984.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_03	
+	817916477	VO_card_104003_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_01_E4667FBD.wem	817916477.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_01	
+	820899347	VO_card_104012_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_03_E4667FBD.wem	820899347.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_03	
+	825725772	VO_card_104005_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_02_E4667FBD.wem	825725772.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_02	
+	827063257	VO_card_103005_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103005_02_E4667FBD.wem	827063257.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_02	
+	827847209	VO_card_103008_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_01_E4667FBD.wem	827847209.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_01	
+	828891468	VO_card_103010_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103010_02_E4667FBD.wem	828891468.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_02	
+	831103236	VO_card_102001_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102001_02_E4667FBD.wem	831103236.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_02	
+	834915002	VO_card_102008_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102008_02_E4667FBD.wem	834915002.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_02	
+	835226811	VO_card_104013_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104013_01_E4667FBD.wem	835226811.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_01	
+	852919093	VO_card_104001_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_01_E4667FBD.wem	852919093.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_01	
+	855928618	VO_card_104012_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104012_04_E4667FBD.wem	855928618.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_04	
+	857457061	VO_card_103002_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103002_03_E4667FBD.wem	857457061.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_03	
+	861430429	VO_card_104015_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104015_05_E4667FBD.wem	861430429.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_05	
+	863567940	VO_card_103003_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_01_E4667FBD.wem	863567940.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_01	
+	866245345	VO_card_102001_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102001_03_E4667FBD.wem	866245345.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_03	
+	867191307	VO_card_101003_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101003_01_E4667FBD.wem	867191307.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_01	
+	869073566	VO_card_103008_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_05_E4667FBD.wem	869073566.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_05	
+	872523914	VO_card_104002_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_05_E4667FBD.wem	872523914.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_05	
+	872657719	VO_card_102012_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102012_01_E4667FBD.wem	872657719.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_01	
+	875549910	VO_card_104016_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104016_01_E4667FBD.wem	875549910.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_01	
+	885777119	VO_card_104011_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_02_E4667FBD.wem	885777119.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_02	
+	885839391	VO_card_103006_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103006_02_E4667FBD.wem	885839391.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_02	
+	886067860	VO_card_102003_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102003_01_E4667FBD.wem	886067860.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_01	
+	900855244	VO_card_104007_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104007_03_E4667FBD.wem	900855244.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_03	
+	912717025	VO_card_102009_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102009_02_E4667FBD.wem	912717025.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_02	
+	915594468	VO_card_103001_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_04_E4667FBD.wem	915594468.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_04	
+	916492171	VO_card_101003_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101003_02_E4667FBD.wem	916492171.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_02	
+	930951759	VO_card_102005_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102005_02_E4667FBD.wem	930951759.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_02	
+	931811357	VO_card_103012_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_03_E4667FBD.wem	931811357.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_03	
+	938478873	VO_card_103001_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103001_05_E4667FBD.wem	938478873.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_05	
+	943538180	VO_card_104001_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104001_03_E4667FBD.wem	943538180.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_03	
+	944486822	VO_card_104006_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_03_E4667FBD.wem	944486822.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_03	
+	946421932	VO_card_103014_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103014_02_E4667FBD.wem	946421932.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_02	
+	948571200	VO_card_102002_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102002_03_E4667FBD.wem	948571200.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_03	
+	950406360	VO_card_102006_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102006_03_E4667FBD.wem	950406360.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_03	
+	953887791	VO_card_104008_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104008_02_E4667FBD.wem	953887791.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_02	
+	956924662	VO_card_104005_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_04_E4667FBD.wem	956924662.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_04	
+	960094859	VO_card_103008_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103008_04_E4667FBD.wem	960094859.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_04	
+	962135179	VO_card_102010_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102010_03_E4667FBD.wem	962135179.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_03	
+	972734126	VO_card_104005_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104005_05_E4667FBD.wem	972734126.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_05	
+	990126044	VO_card_104011_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_03_E4667FBD.wem	990126044.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_03	
+	996464554	VO_card_104014_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_05_E4667FBD.wem	996464554.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_05	
+	1000942966	VO_card_104011_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104011_04_E4667FBD.wem	1000942966.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_04	
+	1005523694	VO_card_103012_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_05_E4667FBD.wem	1005523694.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_05	
+	1015009861	VO_card_101002_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_101002_01_E4667FBD.wem	1015009861.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_01	
+	1015497603	VO_card_103011_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_05_E4667FBD.wem	1015497603.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_05	
+	1022704051	VO_card_103011_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_01_E4667FBD.wem	1022704051.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_01	
+	1024350438	VO_card_102005_01	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102005_01_E4667FBD.wem	1024350438.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_01	
+	1031076599	VO_card_103009_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103009_05_E4667FBD.wem	1031076599.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_05	
+	1031712637	VO_card_103012_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_04_E4667FBD.wem	1031712637.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_04	
+	1032796109	VO_card_102008_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_102008_03_E4667FBD.wem	1032796109.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_03	
+	1040006327	VO_card_104006_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104006_05_E4667FBD.wem	1040006327.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_05	
+	1045292596	VO_card_104014_04	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104014_04_E4667FBD.wem	1045292596.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_04	
+	1051226256	VO_card_104002_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104002_02_E4667FBD.wem	1051226256.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_02	
+	1053495927	VO_card_103003_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103003_05_E4667FBD.wem	1053495927.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_05	
+	1057383264	VO_card_103011_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103011_02_E4667FBD.wem	1057383264.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_02	
+	1060385367	VO_card_103012_02	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_103012_02_E4667FBD.wem	1060385367.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_02	
+	1064345068	VO_card_104003_05	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104003_05_E4667FBD.wem	1064345068.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_05	
+	1068073693	VO_card_104009_03	D:\Menhera\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_card_104009_03_E4667FBD.wem	1068073693.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_03	
+

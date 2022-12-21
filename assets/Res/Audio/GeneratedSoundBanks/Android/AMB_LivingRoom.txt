@@ -1,0 +1,163 @@
+Event	ID	Name			Wwise Object Path	Notes
+	33783626	Play_Item_fan_loop			\Default Work Unit\Items\Play_Item_fan_loop	
+	87515728	Play_noon			\Default Work Unit\AMB\Play_noon	car	130466250	Play_Item_touch_light			\Default Work Unit\Items\Play_Item_touch_light	
+	361456371	Play_Item_dishwasher_close			\Default Work Unit\Items\Play_Item_dishwasher_close	
+	874885637	Play_Item_dishwasher_open			\Default Work Unit\Items\Play_Item_dishwasher_open	
+	925552549	Play_Item_chime_single			\Default Work Unit\Items\Play_Item_chime_single	
+	1080787081	Play_Item_oven_close			\Default Work Unit\Items\Play_Item_oven_close	
+	1097873388	Play_Item_drawer_close			\Default Work Unit\Items\Play_Item_drawer_close	
+	1684453735	Play_Item_shrine_touch			\Default Work Unit\Items\Play_Item_shrine_touch	
+	1741774302	Play_Item_piggy			\Default Work Unit\Items\Play_Item_piggy	
+	1801002195	Play_Item_fan_on			\Default Work Unit\Items\Play_Item_fan_on	
+	1943202618	Play_morning			\Default Work Unit\AMB\Play_morning	
+	2425417940	Play_latenight			\Default Work Unit\AMB\Play_latenight	
+	2730224784	Play_Item_TV_on			\Default Work Unit\Items\Play_Item_TV_on	
+	3080545905	Stop_ABM_saloon			\Default Work Unit\AMB\Stop_ABM_saloon	
+	3159126400	Play_Item_clock_touch			\Default Work Unit\Items\Play_Item_clock_touch	
+	3268673413	Play_Item_fan			\Default Work Unit\Items\Play_Item_fan	
+	3319100206	Play_Item_TV_off			\Default Work Unit\Items\Play_Item_TV_off	
+	3477827380	Stop_Item_fan_loop			\Default Work Unit\Items\Stop_Item_fan_loop	
+	3615498744	Play_Item_drawer_open			\Default Work Unit\Items\Play_Item_drawer_open	
+	3628625063	Play_Item_fan_off			\Default Work Unit\Items\Play_Item_fan_off	
+	4187474011	Play_Item_oven_open			\Default Work Unit\Items\Play_Item_oven_open	
+	4206683656	Play_night			\Default Work Unit\AMB\Play_night	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	3686139462	Area			\Default Work Unit\Area	
+
+State	ID	Name	State Group			Notes
+	0	None	Area			
+	2403500745	saloon	Area			
+	2525152325	yard	Area			
+	3012222961	closet	Area			
+
+Custom State	ID	Name	State Group	Owner		Notes
+	415999597	saloon	Area	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon		
+	677776591	yard	Area	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon		
+	1050449386	closet	Area	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon		
+
+Modulator Time	ID	Name			Wwise Object Path	Notes
+	14151555	Fan_off (Custom)				
+	324454906	Fan_off (Custom)				
+	344812292	Fan_off (Custom)				
+	456741632	Fan_on			\Default Work Unit\Fan_on	
+	574785710	Fan_on (Custom)				
+	579875255	Fan_on (Custom)				
+	862858096	Fan_on (Custom)				
+	968693259	Fan_off			\Default Work Unit\Fan_off	
+
+Effect plug-ins	ID	Name	Type				Notes
+	201118473	Aliasing (Custom)	Wwise Tremolo			
+	966819829	Aliasing (Custom)	Wwise Tremolo			
+	977186840	Aliasing (Custom)	Wwise Tremolo			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	125393677	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\S\Wwise Silence	
+	410471374	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\Silence_2\Wwise Silence	
+	611580964	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\morning\AMB_bird_Wren\Silence\Wwise Silence	
+	636291886	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon_pass\AMB_bike_pass\interval\Wwise Silence	
+	722443672	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\Silence\Wwise Silence	
+	901663890	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_bird_Wren\Silence\Wwise Silence	
+	970438681	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\Silence_2\Wwise Silence	
+	976122987	Wwise Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\Silence_1\Wwise Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	269548	Item_touch_shrine_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_shrine_04_D93BEAF4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_shrine\Item_touch_shrine_04		21000
+	18665791	Item_chair_creak_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chair_creak_02_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chair_creak\Item_chair_creak_02		52392
+	42700505	AMB_CicadaSolo_8	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_8_9DE179A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\AMB_CicadaSolo_8		194981
+	48763844	AMB_CricketClick_2	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_2_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_2		8884
+	70183030	Item_chime_light_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chime_light_04_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\Item_chime_light_04		206420
+	79158572	AMB_CricketChirp_3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_3_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_3		8884
+	81285180	AMB_CicadaSolo_7	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_7_9DE179A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\AMB_CicadaSolo_7		95023
+	82297554	AMB_yard_day	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_yard_day_A710C005.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_yard_day		1141734
+	84756127	Item_touch_shrine_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_shrine_02_D56A6F07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_shrine\Item_touch_shrine_02		10562
+	104040292	Item_touch_light_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_light_03_6B2D9815.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_light\Item_touch_light_03		36894
+	126698811	AMB_bird_Wren_5	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_5_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\morning\AMB_bird_Wren\AMB_bird_Wren_5		166546
+	137601319	AMB_cicadas	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_Cicadas_A710C005.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadas		229758
+	155172880	Item_light_Off	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_Light_Off_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_light_Off		18906
+	178801371	Item_drawer_open	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_drawer_open_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_drawer_open		170296
+	186859071	AMB_bird_Wren_2	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_2_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\morning\AMB_bird_Wren\AMB_bird_Wren_2		440526
+	191109471	Item_chime_light_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chime_light_02_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\Item_chime_light_02		205664
+	214545478	AMB_CricketClick_1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_1_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_1		8884
+	232331624	Item_shrine_touch_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_shrine_touch_04_7FC86141.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_shrine_touch\Item_shrine_touch_04		10988
+	241339547	AMB_CicadaSolo_5	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_5_9DE179A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\AMB_CicadaSolo_5		70465
+	241468172	AMB_CricketChirp_7	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_7_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_7		8884
+	286081469	Item_touch_shrine_05	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_shrine_05_29F2B52E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_shrine\Item_touch_shrine_05		15548
+	287947439	AMB_bike_pass_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bike_pass_DFC27F17.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon_pass\AMB_bike_pass\AMB_bike_pass_01		304980
+	293541229	AMB_CricketClick_8	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_8_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_8		8884
+	314298893	Item_shrine_touch_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_shrine_touch_02_11C2F0CF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_shrine_touch\Item_shrine_touch_02		29036
+	345227327	AMB_CicadaSolo_6	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_6_9DE179A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\AMB_CicadaSolo_6		77107
+	348268015	Item_chime_light_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chime_light_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\Item_chime_light_01		214788
+	358527344	Item_touch_light_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_light_01_8E55E469.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_light\Item_touch_light_01		36056
+	375683606	AMB_bird_Wren_1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_1_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\morning\AMB_bird_Wren\AMB_bird_Wren_1		415018
+	378982269	Item_fan_on_click	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_fan_on_click_EBC10E66.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_fan\Item_fan_on_click		14456
+	385242213	AMB_CricketChirp_2	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_2_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_2		8884
+	407721595	AMB_bird_Wren_6	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_6_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\morning\AMB_bird_Wren\AMB_bird_Wren_6		180026
+	437069302	Item_TV_off	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_TV_off_B6BE592C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_TV_off		17100
+	441390777	Item_touch_light_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_light_02_10A00AE4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_light\Item_touch_light_02		33424
+	464992774	AMB_CricketClick_7	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_7_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_7		8884
+	480771981	Item_chair_creak_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chair_creak_04_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chair_creak\Item_chair_creak_04		114752
+	501102531	AMB_CicadaSolo_4	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_4_9DE179A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\AMB_CicadaSolo_4		87159
+	512513891	AMB_CricketClick_4	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_4_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_4		8884
+	516694127	AMB_bird_Wren_3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_3_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\morning\AMB_bird_Wren\AMB_bird_Wren_3		137190
+	519473728	AMB_CricketClick_3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_3_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_3		8884
+	526086173	Item_eraser_erase	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_eraser_erase_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_eraser_erase		252956
+	547583124	Item_touch_shrine_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_shrine_03_C5012034.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_shrine\Item_touch_shrine_03		6264
+	564203602	Item_TV_on	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_TV_on_D9506A2B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_TV_on		37640
+	573689069	Item_chair_creak_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chair_creak_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chair_creak\Item_chair_creak_01		122380
+	585088951	Item_chime_medium_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chime_medium_04_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\Item_chime_medium_04		222076
+	585692498	Item_touch_light_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_light_04_6C6207F6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_light\Item_touch_light_04		34502
+	596191669	AMB_CicadaSolo_1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_1_9DE179A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\AMB_CicadaSolo_1		49921
+	596870913	AMB_bird_Wren_4	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bird_Wren_4_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\morning\AMB_bird_Wren\AMB_bird_Wren_4		181892
+	609149693	AMB_CricketChirp_4	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_4_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_4		8884
+	610590116	Item_shrine_touch_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_shrine_touch_03_9558FF9B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_shrine_touch\Item_shrine_touch_03		23936
+	646480451	Item_dishwasher_open	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_dishwasher_open_F9D7C45F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_dishwasher_open		202616
+	648706466	Item_fan	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_Fan_289EC250.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_fan\Item_fan_loop\Item_fan		256866
+	656665662	AMB_bike_pass_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bike_pass_4DEB35B3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon_pass\AMB_bike_pass\AMB_bike_pass_02		340692
+	660639802	Item_chime_medium_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chime_medium_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\Item_chime_medium_01		244996
+	667222698	Item_chime_medium_02	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chime_medium_02_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\Item_chime_medium_02		237364
+	667442242	Item_oven_open	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_oven_open_F1C42066.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_oven_open		155404
+	671923087	Item_oven_close	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_oven_close_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_oven_close		159168
+	695375290	Item_dishwasher_close	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_dishwasher_close_0395F1DC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_dishwasher_close		136432
+	787690483	AMB_CricketChirp_1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_1_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_1		8884
+	803100276	Item_chair_creak_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chair_creak_03_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chair_creak\Item_chair_creak_03		63304
+	815814881	Item_touch_shrine_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_shrine_01_F3AE2575.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_shrine\Item_touch_shrine_01		35780
+	829145897	Item_chime_medium_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chime_medium_03_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\Item_chime_medium_03		222840
+	847849151	AMB_CricketChirp_5	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_5_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_5		8884
+	859007545	AMB_CicadaSolo_3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_3_9DE179A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\AMB_CicadaSolo_3		118231
+	866540019	Item_light_On	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_Light_On_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_light_On		19170
+	871865660	AMB_CicadaSolo_2	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CicadaSolo_2_9DE179A3.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\noon\AMB_cicadaSolo\AMB_CicadaSolo_2		95042
+	875372635	Item_chime_light_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_chime_light_03_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_chime_single\Item_chime_light_03		209964
+	911685336	Item_shrine_touch_01	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_shrine_touch_01_3484BF8A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_shrine_touch\Item_shrine_touch_01		7440
+	921033823	AMB_CricketClick_5	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_5_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_5		8884
+	927125122	AMB_CricketClick_6	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_6_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_6		8884
+	934340450	AMB_CricketChirp_8	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_8_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_8		8884
+	938386771	AMB_CricketChirp_6	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_6_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_6		8884
+	966187054	AMB_bike_pass_04	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bike_pass_BAFC8F67.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon_pass\AMB_bike_pass\AMB_bike_pass_04		334498
+	975138549	Item_touch_shrine_06	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_touch_shrine_06_6B1116EF.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_touch_shrine\Item_touch_shrine_06		21874
+	983886681	Item_piggy	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_piggy_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_piggy		24030
+	1005974411	AMB_bike_pass_03	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_bike_pass_D815B6EB.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon_pass\AMB_bike_pass\AMB_bike_pass_03		336471
+	1010037642	Item_fan_off_click	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_fan_off_click_CFFAE5F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_fan\Item_fan_off_click		15270
+	1069013499	Item_clock_touch	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_clickclock_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_clock_touch		53788
+	1071857001	Item_drawer_close	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\Item_drawer_close_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\Item\Item_drawer_close		242788
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	48763844	AMB_CricketClick_2	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_2_F9DC3336.wem	48763844.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_2	
+	79158572	AMB_CricketChirp_3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_3_F9DC3336.wem	79158572.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_3	
+	82297554	AMB_yard_day	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_yard_day_A710C005.wem	82297554.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\morning\AMB_yard_day	
+	155254142	AMB_yard_night	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_yard_night_A710C005.wem	155254142.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_yard_night	
+	214545478	AMB_CricketClick_1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_1_F9DC3336.wem	214545478.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_1	
+	241468172	AMB_CricketChirp_7	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_7_F9DC3336.wem	241468172.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_7	
+	293541229	AMB_CricketClick_8	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_8_F9DC3336.wem	293541229.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_8	
+	385242213	AMB_CricketChirp_2	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_2_F9DC3336.wem	385242213.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_2	
+	464992774	AMB_CricketClick_7	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_7_F9DC3336.wem	464992774.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_7	
+	512513891	AMB_CricketClick_4	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_4_F9DC3336.wem	512513891.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_4	
+	519473728	AMB_CricketClick_3	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_3_F9DC3336.wem	519473728.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_3	
+	609149693	AMB_CricketChirp_4	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_4_F9DC3336.wem	609149693.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_4	
+	787690483	AMB_CricketChirp_1	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_1_F9DC3336.wem	787690483.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_1	
+	847849151	AMB_CricketChirp_5	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_5_F9DC3336.wem	847849151.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_5	
+	921033823	AMB_CricketClick_5	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_5_F9DC3336.wem	921033823.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_5	
+	927125122	AMB_CricketClick_6	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketClick_6_F9DC3336.wem	927125122.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketClick\AMB_CricketClick_6	
+	934340450	AMB_CricketChirp_8	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_8_F9DC3336.wem	934340450.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_8	
+	938386771	AMB_CricketChirp_6	D:\Menhera\client\house\WwiseProject\.cache\Android\SFX\AMB_CricketChirp_6_F9DC3336.wem	938386771.wem	\Actor-Mixer Hierarchy\Default Work Unit\Saloon\AMB\AMB_saloon\latenight\AMB_cricketChirp\AMB_CricketChirp_6	
+
