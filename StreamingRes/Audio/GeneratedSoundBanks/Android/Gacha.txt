@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1059640490	Play_UI_get_card			\Default Work Unit\Gacha\Play_UI_get_card	
+	2138709697	Play_UI_show_card			\Default Work Unit\Gacha\Play_UI_show_card	
+	2173310401	Play_UI_gacha_next			\Default Work Unit\Gacha\Play_UI_gacha_next	
+	3283612039	Play_UI_gacha_key			\Default Work Unit\Gacha\Play_UI_gacha_key	
+	3764397487	Play_UI_card_full			\Default Work Unit\Gacha\Play_UI_card_full	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	369041465	UI_get_card	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_get_card_C5994DB4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gacha\UI\UI_get_card		27940
+	554511947	UI_gacha_key	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_gacha_key_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gacha\UI\UI_gacha_key		45636
+	698196634	UI_card_full	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_card_full_11BD4A33.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gacha\UI\UI_card_full		40336
+	835111035	UI_gacha_next	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_gacha_next_D577B0F8.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gacha\UI\UI_gacha_next		10424
+	959233233	UI_show_card	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_show_card_F9C20AF0.wem		\Actor-Mixer Hierarchy\Default Work Unit\Gacha\UI\UI_show_card		104084
+

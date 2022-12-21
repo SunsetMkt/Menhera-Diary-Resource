@@ -1,0 +1,177 @@
+Event	ID	Name			Wwise Object Path	Notes
+	116308335	Play_UI_album_open			\Default Work Unit\UI\Play_UI_album_open	
+	139929809	Play_UI_tips			\Default Work Unit\UI\Play_UI_tips	
+	142226906	Play_UI_deposit_down			\Default Work Unit\UI\Play_UI_deposit_down	
+	358932609	Play_UI_emoticon_storage			\Default Work Unit\UI\Play_UI_emoticon_storage	
+	452547817	Stop_All			\Default Work Unit\Stop_All	
+	470598216	Play_UI_photo_get			\Default Work Unit\UI\Play_UI_photo_get	
+	496431067	Play_UI_intimate_open			\Default Work Unit\UI\Play_UI_intimate_open	
+	526007444	Play_UI_stamp			\Default Work Unit\UI\Achievement\Play_UI_stamp	
+	552268172	Play_UI_album_mark			\Default Work Unit\UI\Play_UI_album_mark	
+	768597095	Play_UI_wardrobe_back			\Default Work Unit\UI\Wardrobe\Play_UI_wardrobe_back	
+	797747794	Play_UI_blackboard_del			\Default Work Unit\UI\Achievement\Play_UI_blackboard_del	
+	819338728	Play_UI_blackboard_write			\Default Work Unit\UI\Play_UI_blackboard_write	
+	947221904	Play_UI_focus_start			\Default Work Unit\UI\Play_UI_focus_start	
+	973986035	Play_UI_error			\Default Work Unit\UI\Play_UI_error	
+	1059565814	Play_UI_toy_lay			\Default Work Unit\UI\Play_UI_toy_lay	
+	1119841816	Play_UI_stay			\Default Work Unit\UI\Play_UI_stay	
+	1241941036	Play_UI_emerge			\Default Work Unit\UI\Play_UI_emerge	
+	1260208069	Play_UI_intimate_upgrade			\Default Work Unit\UI\Play_UI_intimate_upgrade	
+	1283967793	Play_UI_lay_fridge			\Default Work Unit\UI\Play_UI_lay_fridge	
+	1336954481	Play_UI_lay_lunchbox			\Default Work Unit\UI\Play_UI_lay_lunchbox	
+	1341560991	Play_UI_pad_close			\Default Work Unit\UI\Play_UI_pad_close	
+	1421692778	Play_UI_album_turn			\Default Work Unit\UI\Play_UI_album_turn	
+	1474796387	Play_UI_pad_click			\Default Work Unit\UI\Play_UI_pad_click	
+	1494852874	Play_UI_blackboard_turn			\Default Work Unit\UI\Play_UI_blackboard_turn	
+	1575234915	Play_UI_screenshot			\Default Work Unit\UI\Play_UI_screenshot	
+	1615497897	Play_UI_close			\Default Work Unit\UI\Play_UI_close	
+	1626906607	Play_UI_mail_click			\Default Work Unit\UI\Play_UI_mail_click	
+	1643208716	Play_UI_money_get			\Default Work Unit\UI\Play_UI_money_get	
+	1664447770	Play_UI_frig_open			\Default Work Unit\UI\Play_UI_frig_open	
+	1679103878	Play_UI_wardrobe_close			\Default Work Unit\UI\Wardrobe\Play_UI_wardrobe_close	
+	1703514128	Play_UI_interact_open			\Default Work Unit\UI\Play_UI_interact_open	
+	1740714765	Play_UI_focus_success			\Default Work Unit\UI\Play_UI_focus_success	
+	1749424733	Play_UI_click			\Default Work Unit\UI\Play_UI_click	
+	1757798226	Play_UI_wardrobe_open			\Default Work Unit\UI\Wardrobe\Play_UI_wardrobe_open	
+	1820048443	Play_UI_zoom_out			\Default Work Unit\UI\Play_UI_zoom_out	
+	1821014887	Play_UI_bling			\Default Work Unit\UI\Play_UI_bling	
+	1896505600	Play_UI_lay_backpack			\Default Work Unit\UI\Play_UI_lay_backpack	
+	1954954917	Stop_UI_bling			\Default Work Unit\UI\Stop_UI_bling	
+	1963968282	Play_UI_wardrobe_hang			\Default Work Unit\UI\Wardrobe\Play_UI_wardrobe_hang	
+	2019302911	Play_UI_lay			\Default Work Unit\UI\Play_UI_lay	
+	2102221113	Play_UI_pad_open			\Default Work Unit\UI\Play_UI_pad_open	
+	2334918477	Play_UI_mail_open			\Default Work Unit\UI\Play_UI_mail_open	
+	2456220178	Play_UI_bill_fly			\Default Work Unit\UI\Play_UI_bill_fly	
+	2540894336	Play_UI_lay_bag			\Default Work Unit\UI\Play_UI_lay_bag	
+	2548829767	Play_UI_letter_turn			\Default Work Unit\UI\Play_UI_letter_turn	
+	2558452305	Play_UI_buy			\Default Work Unit\UI\Play_UI_buy	
+	2627503401	Play_UI_board_in			\Default Work Unit\UI\Play_UI_board_in	
+	2740886486	Play_UI_sticky			\Default Work Unit\UI\Play_UI_sticky	
+	2833122416	Play_UI_photo_close			\Default Work Unit\UI\Play_UI_photo_close	
+	2920548732	Play_UI_zoom_in			\Default Work Unit\UI\Play_UI_zoom_in	
+	3004564996	Play_UI_furniture_lay			\Default Work Unit\UI\Play_UI_furniture_lay	
+	3093375560	Play_UI_board_out			\Default Work Unit\UI\Play_UI_board_out	
+	3112392363	Play_UI_focus_end			\Default Work Unit\UI\Play_UI_focus_end	
+	3154298945	Play_UI_focus_wheel			\Default Work Unit\UI\Play_UI_focus_wheel	
+	3168458816	Play_UI_achievement			\Default Work Unit\UI\Achievement\Play_UI_achievement	
+	3247519186	Play_UI_album_turn_lot			\Default Work Unit\UI\Play_UI_album_turn_lot	
+	3272334267	Play_UI_rainbow			\Default Work Unit\UI\Play_UI_rainbow	
+	3298859422	Play_UI_bag_open			\Default Work Unit\UI\Play_UI_bag_open	
+	3371481695	Play_UI_souvenir_hang			\Default Work Unit\UI\Play_UI_souvenir_hang	
+	3432033022	Play_UI_frig_close			\Default Work Unit\UI\Play_UI_frig_close	
+	3520927472	Play_UI_pick			\Default Work Unit\UI\Play_UI_pick	
+	3584041328	Play_UI_intimate			\Default Work Unit\UI\Play_UI_intimate	
+	3680781494	Play_UI_emoticon_get			\Default Work Unit\UI\Play_UI_emoticon_get	
+	3763350089	Play_UI_clap			\Default Work Unit\UI\Achievement\Play_UI_clap	
+	3826685727	Play_UI_unlock			\Default Work Unit\UI\Play_UI_unlock	
+	3831581616	Play_UI_lay_wallbag			\Default Work Unit\UI\Play_UI_lay_wallbag	
+	3894916230	Stop_Voice			\Default Work Unit\Stop_Voice	
+	3902643321	Play_UI_deposit_up			\Default Work Unit\UI\Play_UI_deposit_up	
+	3905148667	Play_UI_open			\Default Work Unit\UI\Play_UI_open	
+	3935868005	Play_UI_album_close			\Default Work Unit\UI\Play_UI_album_close	
+	3990233376	Play_UI_touch			\Default Work Unit\UI\Play_UI_touch	
+	4067918559	Play_UI_focus_lose			\Default Work Unit\UI\Play_UI_focus_lose	
+	4106183011	Play_UI_wardrobe_place			\Default Work Unit\UI\Wardrobe\Play_UI_wardrobe_place	
+	4168762296	Play_UI_emoticon_paper			\Default Work Unit\UI\Play_UI_emoticon_paper	
+	4251440531	Play_UI_souvenir_down			\Default Work Unit\UI\Play_UI_souvenir_down	
+	4266623108	Play_UI_photo_open			\Default Work Unit\UI\Play_UI_photo_open	
+	4284431882	Play_UI_lay_placeobj			\Default Work Unit\UI\Play_UI_lay_placeobj	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3426332	UI_screenshot	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_screenshot_9308303C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_screenshot		25928
+	6577082	UI_pad_close	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_pad_close_02_90CA5EE2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_pad_close		40136
+	9954641	UI_photo_close	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_photo_close_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_photo_close		5042
+	13846093	UI_frig_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Item_frig_open_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\3D\UI_frig_open		114888
+	27589037	UI_blackboard_turn	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_turn_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_blackboard_turn		171088
+	30761675	UI_deposit_up_c7	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_deposit_up_c7_8BD93883.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_deposit_up\UI_deposit_up_c7		8972
+	41467854	UI_touch_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_touch_02_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_touch\UI_touch_02		14366
+	52049402	UI_photo_get	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_photo_get_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_photo_get		125448
+	111732337	UI_album_turn_7	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_turn_7_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_turn\UI_album_turn_7		92256
+	117623056	UI_mail_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_mail_open_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_mail_open		83064
+	128018970	UI_intimate_upgrade	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_intimate_upgrade_D66D9FDD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_intimate_upgrade		639096
+	133996712	UI_lay_bag	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_lay_backpack_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_lay_bag		34050
+	137864484	UI_emoticon_paper	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_photo_paper_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_emoticon_paper		30188
+	141844461	UI_blackboard_del	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_del_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_blackboard_del		88882
+	177956064	UI_achievement	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_achievement_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_achievement		193072
+	184082327	UI_blackboard_write_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_write_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_blackboard_write\UI_blackboard_write_01		10292
+	189529993	UI_deposit_up_c6	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_deposit_up_c6_4E6A1CBC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_deposit_down\UI_deposit_up_c6		10180
+	198102476	UI_blackboard_write_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_write_03_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_blackboard_write\UI_blackboard_write_03		10594
+	209269799	UI_focus_wheel_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_wheel_05_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_wheel\UI_focus_wheel_05		7212
+	240776674	UI_board_out	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_board_out_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_board_out		51440
+	241392986	UI_pad_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_pad_open_21B43066.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_pad_open		24192
+	242915760	UI_buy	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_03_93B6DC27.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_buy		59928
+	251614239	UI_stay	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_pick_02_D8B66C7E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\UI_stay		12244
+	260270990	UI_wardrobe_hang	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_wardrobe_hang_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_wardrobe_hang		49044
+	260510708	UI_album_turn_4	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_turn_4_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_turn\UI_album_turn_4		180696
+	286849111	UI_interact_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_interact_open_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_interact_open		126168
+	296064863	UI_wardrobe_place	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_wardrobe_place_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_wardrobe_place		23424
+	297471382	UI_deposit_up_c6	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_deposit_up_c6_83A5F815.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_deposit_up\UI_deposit_up_c6		7916
+	299048720	UI_stamp	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_stamp_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_stamp		16550
+	323085975	UI_blackboard_write_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_write_05_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_blackboard_write\UI_blackboard_write_05		11792
+	356430813	UI_focus_wheel_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_wheel_02_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_wheel\UI_focus_wheel_02		7212
+	384649382	UI_focus_wheel_07	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_wheel_07_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_wheel\UI_focus_wheel_07		7212
+	398690182	UI_touch_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_touch_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_touch\UI_touch_01		15804
+	411630461	UI_bill_fly	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_bill_fly_04A0608A.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_bill_fly		287748
+	417066474	UI_bling	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_bling_289EC250.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_bling		764924
+	423310285	UI_lay_fridge	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_lay_fridge_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_lay_fridge		24770
+	429508081	UI_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_open_0FD81C6B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\UI_open		21700
+	438277167	UI_album_turn_2	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_turn_2_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_turn\UI_album_turn_2		88496
+	440999798	UI_board_in	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_board_in_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_board_in		46370
+	443601861	UI_lay_backpack	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_lay_bag_5BCC9A5F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_lay_backpack		47116
+	448996632	UI_emoticon_get	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_emoticon_get_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_emoticon_get		91514
+	450269230	UI_mail_click	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_mail_click_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_mail_click		33208
+	457096870	UI_focus_start	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_start_1B746E17.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_start		188130
+	459493082	UI_lay_placeobj	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_lay_placeobj_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_lay_placeobj		31654
+	475717002	UI_rainbow	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_rainbow_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_rainbow		612716
+	490106274	UI_error	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_06_A7F01D26.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_error		21824
+	498969848	UI_close	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_05_67B9DF3B.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_close		13356
+	500027057	UI_wardrobe_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_wardrobe_open_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_wardrobe_open		196744
+	525582683	UI_sticky	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_sticky_E5A217E2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_sticky		20884
+	548252472	UI_focus_wheel_06	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_wheel_06_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_wheel\UI_focus_wheel_06		7212
+	557024560	UI_focus_wheel_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_wheel_03_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_wheel\UI_focus_wheel_03		7212
+	567501678	UI_album_turn_lot	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_turn_lot_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_turn_lot		90382
+	568616659	UI_letter_turn	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_letter_turn_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_letter_turn		52902
+	584867645	UI_focus_lose	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_lose_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_lose		320496
+	592119068	UI_album_mark	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_mark_B9B9A1DD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_mark		25740
+	606620144	UI_wardrobe_close	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_wardrobe_close_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_wardrobe_close		184328
+	648592292	UI_album_turn_5	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_turn_5_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_turn\UI_album_turn_5		107312
+	648983027	UI_zoom_in	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_zoom_in_600CB5F4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_zoom_in		36920
+	658143714	UI_frig_close	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Item_frig_close_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\3D\UI_frig_close		47060
+	664706964	UI_blackboard_write_07	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_write_07_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_blackboard_write\UI_blackboard_write_07		16500
+	675394630	UI_focus_wheel_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_wheel_01_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_wheel\UI_focus_wheel_01		7212
+	693428502	UI_souvenir_hang	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_souvenir_hang_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\3D\UI_souvenir_hang		15684
+	695489769	UI_lay	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_01_244D784D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_lay		61776
+	697063042	UI_emoticon_storage	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_photo_storage_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_emoticon_storage		24252
+	697596229	UI_pad_click	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_padclick_592423F9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_pad_click		18916
+	698267995	UI_focus_wheel_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_wheel_04_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_wheel\UI_focus_wheel_04		7212
+	707483163	UI_album_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_close_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_open		63344
+	736939426	UI_deposit_up_c5	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_deposit_up_c5_1D03A6C6.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_deposit_up\UI_deposit_up_c5		7464
+	741641128	UI_furniture_lay	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_furniture_lay_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\3D\UI_furniture_lay		52516
+	763885944	UI_intimate_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_intimate_open_5F330EA4.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_intimate_open		24376
+	777798253	UI_photo_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_photo_close_C469760D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_photo_open		4198
+	793300735	UI_deposit_up_c7	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_deposit_up_c7_69529662.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_deposit_down\UI_deposit_up_c7		9876
+	797970796	UI_deposit_up_c5	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_deposit_up_c5_3B7D1A93.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_deposit_down\UI_deposit_up_c5		10636
+	800641958	UI_emerge	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_emerge_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_emerge		18776
+	807274145	UI_tips	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_tips_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_tips		34188
+	810357715	UI_album_turn_3	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_turn_3_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_turn\UI_album_turn_3		80968
+	827750626	UI_souvenir_down	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_souvenir_down_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\3D\UI_souvenir_down		17198
+	830320998	UI_focus_success	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_success_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_success		1587664
+	837334055	UI_album_turn_6	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_turn_6_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_turn\UI_album_turn_6		107312
+	863754179	UI_get	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_get_43B835FE.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_get		9804
+	892183129	UI_wardrobe_back	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_wardrobe_back_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_wardrobe_back		39372
+	901727890	UI_clap	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_clap_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_clap		20224
+	905479312	UI_click	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_Click_02_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_click		26840
+	910155151	UI_focus_end	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_focus_end_D67A34B1.wem		\Actor-Mixer Hierarchy\Default Work Unit\Focus\UI\UI_focus_end		240996
+	915401409	UI_intimate	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_intimate_5E95043D.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_intimate		38274
+	923706594	UI_pick	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_pick_02_4B6CB54C.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\UI_pick		12084
+	943203434	UI_blackboard_write_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_write_04_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_blackboard_write\UI_blackboard_write_04		12084
+	943206835	UI_album_turn_1	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_turn_1_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_turn\UI_album_turn_1		152468
+	946900417	UI_money_get	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_money_get_020F54AA.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_money_get		59934
+	958627595	UI_unlock	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_unlock_47DEAA3E.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_unlock		221320
+	966484514	UI_zoom_out	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_zoom_out_5946A0BC.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_zoom_out		28300
+	999422729	UI_bag_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_bag_open_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\3D\UI_bag_open		88500
+	1011568757	UI_album_close	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_album_open_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_album_close		107308
+	1017317041	UI_blackboard_write_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_write_02_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_blackboard_write\UI_blackboard_write_02		11126
+	1040105732	UI_blackboard_write_06	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_blackboard_write_06_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\HUD\UI_blackboard_write\UI_blackboard_write_06		13010
+	1052652549	UI_lay_lunchbox	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_lay_lunchbox_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Saloon\UI\2D\UI_lay_lunchbox		9610
+

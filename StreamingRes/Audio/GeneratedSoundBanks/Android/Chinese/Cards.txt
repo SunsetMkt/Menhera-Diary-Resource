@@ -1,0 +1,651 @@
+Event	ID	Name			Wwise Object Path	Notes
+	4851384	Play_VO_card_103005_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_03	
+	4851385	Play_VO_card_103005_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_02	
+	4851386	Play_VO_card_103005_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_01	
+	4851390	Play_VO_card_103005_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_05	
+	4851391	Play_VO_card_103005_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103005_04	
+	6654752	Play_VO_card_101004_02			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_02	
+	6654753	Play_VO_card_101004_03			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_03	
+	6654755	Play_VO_card_101004_01			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_01	
+	6654756	Play_VO_card_101004_06			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_06	
+	6654758	Play_VO_card_101004_04			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_04	
+	6654759	Play_VO_card_101004_05			\Default Work Unit\Voice\Cards\White\Play_VO_card_101004_05	
+	157919760	Play_VO_card_102009_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102009_02	
+	157919761	Play_VO_card_102009_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102009_03	
+	157919763	Play_VO_card_102009_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102009_01	
+	306419096	Play_VO_card_104011_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_05	
+	306419097	Play_VO_card_104011_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_04	
+	306419100	Play_VO_card_104011_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_01	
+	306419102	Play_VO_card_104011_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_03	
+	306419103	Play_VO_card_104011_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104011_02	
+	369707968	Play_VO_card_104005_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_04	
+	369707969	Play_VO_card_104005_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_05	
+	369707973	Play_VO_card_104005_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_01	
+	369707974	Play_VO_card_104005_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_02	
+	369707975	Play_VO_card_104005_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104005_03	
+	461385002	Play_VO_card_104004_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_05	
+	461385003	Play_VO_card_104004_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_04	
+	461385004	Play_VO_card_104004_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_03	
+	461385005	Play_VO_card_104004_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_02	
+	461385006	Play_VO_card_104004_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104004_01	
+	500218864	Play_VO_card_104013_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_03	
+	500218865	Play_VO_card_104013_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_02	
+	500218866	Play_VO_card_104013_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_01	
+	500218870	Play_VO_card_104013_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_05	
+	500218871	Play_VO_card_104013_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104013_04	
+	562322304	Play_VO_card_103011_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_02	
+	562322305	Play_VO_card_103011_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_03	
+	562322307	Play_VO_card_103011_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_01	
+	562322310	Play_VO_card_103011_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_04	
+	562322311	Play_VO_card_103011_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103011_05	
+	714746544	Play_VO_card_103003_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_01	
+	714746546	Play_VO_card_103003_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_03	
+	714746547	Play_VO_card_103003_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_02	
+	714746548	Play_VO_card_103003_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_05	
+	714746549	Play_VO_card_103003_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103003_04	
+	850068296	Play_VO_card_102001_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102001_02	
+	850068297	Play_VO_card_102001_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102001_03	
+	850068299	Play_VO_card_102001_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102001_01	
+	913656180	Play_VO_card_102006_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102006_03	
+	913656181	Play_VO_card_102006_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102006_02	
+	913656182	Play_VO_card_102006_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102006_01	
+	995227048	Play_VO_card_104002_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_05	
+	995227049	Play_VO_card_104002_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_04	
+	995227052	Play_VO_card_104002_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_01	
+	995227054	Play_VO_card_104002_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_03	
+	995227055	Play_VO_card_104002_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104002_02	
+	1033525473	Play_VO_card_102003_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102003_01	
+	1033525474	Play_VO_card_102003_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102003_02	
+	1033525475	Play_VO_card_102003_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102003_03	
+	1118437050	Play_VO_card_104014_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_04	
+	1118437051	Play_VO_card_104014_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_05	
+	1118437052	Play_VO_card_104014_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_02	
+	1118437053	Play_VO_card_104014_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_03	
+	1118437055	Play_VO_card_104014_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104014_01	
+	1180540488	Play_VO_card_103010_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_05	
+	1180540489	Play_VO_card_103010_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_04	
+	1180540492	Play_VO_card_103010_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_01	
+	1180540494	Play_VO_card_103010_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_03	
+	1180540495	Play_VO_card_103010_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103010_02	
+	1231826225	Play_VO_card_104009_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_01	
+	1231826226	Play_VO_card_104009_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_02	
+	1231826227	Play_VO_card_104009_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_03	
+	1231826228	Play_VO_card_104009_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_04	
+	1231826229	Play_VO_card_104009_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104009_05	
+	1332763552	Play_VO_card_103012_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_03	
+	1332763553	Play_VO_card_103012_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_02	
+	1332763554	Play_VO_card_103012_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_01	
+	1332763558	Play_VO_card_103012_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_05	
+	1332763559	Play_VO_card_103012_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103012_04	
+	1396962789	Play_VO_card_102010_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102010_01	
+	1396962790	Play_VO_card_102010_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102010_02	
+	1396962791	Play_VO_card_102010_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102010_03	
+	1445429954	Play_VO_card_103001_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_05	
+	1445429955	Play_VO_card_103001_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_04	
+	1445429956	Play_VO_card_103001_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_03	
+	1445429957	Play_VO_card_103001_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_02	
+	1445429958	Play_VO_card_103001_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103001_01	
+	1473622368	Play_VO_card_103007_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_05	
+	1473622369	Play_VO_card_103007_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_04	
+	1473622372	Play_VO_card_103007_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_01	
+	1473622374	Play_VO_card_103007_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_03	
+	1473622375	Play_VO_card_103007_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103007_02	
+	1507779416	Play_VO_card_101001_01			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_01	
+	1507779418	Play_VO_card_101001_03			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_03	
+	1507779419	Play_VO_card_101001_02			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_02	
+	1507779420	Play_VO_card_101001_05			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_05	
+	1507779421	Play_VO_card_101001_04			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_04	
+	1507779423	Play_VO_card_101001_06			\Default Work Unit\Voice\Cards\White\Play_VO_card_101001_06	
+	1662086248	Play_VO_card_102002_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102002_03	
+	1662086249	Play_VO_card_102002_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102002_02	
+	1662086250	Play_VO_card_102002_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102002_01	
+	1722632308	Play_VO_card_102005_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102005_02	
+	1722632309	Play_VO_card_102005_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102005_03	
+	1722632311	Play_VO_card_102005_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102005_01	
+	1807543856	Play_VO_card_104016_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_04	
+	1807543857	Play_VO_card_104016_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_05	
+	1807543861	Play_VO_card_104016_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_01	
+	1807543862	Play_VO_card_104016_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_02	
+	1807543863	Play_VO_card_104016_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104016_03	
+	1825290384	Play_VO_card_104010_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_02	
+	1825290385	Play_VO_card_104010_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_03	
+	1825290387	Play_VO_card_104010_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_01	
+	1825290390	Play_VO_card_104010_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_04	
+	1825290391	Play_VO_card_104010_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104010_05	
+	1870832760	Play_VO_card_104008_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_03	
+	1870832761	Play_VO_card_104008_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_02	
+	1870832762	Play_VO_card_104008_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_01	
+	1870832766	Play_VO_card_104008_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_05	
+	1870832767	Play_VO_card_104008_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104008_04	
+	1888878170	Play_VO_card_104017_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_05	
+	1888878171	Play_VO_card_104017_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_04	
+	1888878172	Play_VO_card_104017_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_03	
+	1888878173	Play_VO_card_104017_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_02	
+	1888878174	Play_VO_card_104017_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104017_01	
+	2125997568	Play_VO_card_101002_04			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_04	
+	2125997569	Play_VO_card_101002_05			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_05	
+	2125997570	Play_VO_card_101002_06			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_06	
+	2125997573	Play_VO_card_101002_01			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_01	
+	2125997574	Play_VO_card_101002_02			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_02	
+	2125997575	Play_VO_card_101002_03			\Default Work Unit\Voice\Cards\White\Play_VO_card_101002_03	
+	2217674601	Play_VO_card_101003_06			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_06	
+	2217674602	Play_VO_card_101003_05			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_05	
+	2217674603	Play_VO_card_101003_04			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_04	
+	2217674604	Play_VO_card_101003_03			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_03	
+	2217674605	Play_VO_card_101003_02			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_02	
+	2217674606	Play_VO_card_101003_01			\Default Work Unit\Voice\Cards\White\Play_VO_card_101003_01	
+	2244063490	Play_VO_card_103002_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_04	
+	2244063491	Play_VO_card_103002_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_05	
+	2244063492	Play_VO_card_103002_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_02	
+	2244063493	Play_VO_card_103002_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_03	
+	2244063495	Play_VO_card_103002_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103002_01	
+	2351193056	Play_VO_card_102004_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102004_01	
+	2351193058	Play_VO_card_102004_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102004_03	
+	2351193059	Play_VO_card_102004_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102004_02	
+	2432527373	Play_VO_card_102007_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102007_01	
+	2432527374	Play_VO_card_102007_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102007_02	
+	2432527375	Play_VO_card_102007_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102007_03	
+	2545332448	Play_VO_card_104003_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_02	
+	2545332449	Play_VO_card_104003_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_03	
+	2545332451	Play_VO_card_104003_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_01	
+	2545332454	Play_VO_card_104003_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_04	
+	2545332455	Play_VO_card_104003_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104003_05	
+	2555973929	Play_VO_card_104012_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_01	
+	2555973930	Play_VO_card_104012_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_02	
+	2555973931	Play_VO_card_104012_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_03	
+	2555973932	Play_VO_card_104012_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_04	
+	2555973933	Play_VO_card_104012_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104012_05	
+	2798693888	Play_VO_card_103008_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_04	
+	2798693889	Play_VO_card_103008_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_05	
+	2798693893	Play_VO_card_103008_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_01	
+	2798693894	Play_VO_card_103008_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_02	
+	2798693895	Play_VO_card_103008_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103008_03	
+	2824157100	Play_VO_card_102012_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102012_02	
+	2824157101	Play_VO_card_102012_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102012_03	
+	2824157103	Play_VO_card_102012_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102012_01	
+	2890370922	Play_VO_card_103009_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_05	
+	2890370923	Play_VO_card_103009_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_04	
+	2890370924	Play_VO_card_103009_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_03	
+	2890370925	Play_VO_card_103009_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_02	
+	2890370926	Play_VO_card_103009_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103009_01	
+	2905491512	Play_VO_card_102013_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102013_01	
+	2905491514	Play_VO_card_102013_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102013_03	
+	2905491515	Play_VO_card_102013_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102013_02	
+	2934015772	Play_VO_card_102008_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102008_01	
+	2934015774	Play_VO_card_102008_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102008_03	
+	2934015775	Play_VO_card_102008_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102008_02	
+	3234439289	Play_VO_card_104001_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_01	
+	3234439290	Play_VO_card_104001_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_02	
+	3234439291	Play_VO_card_104001_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_03	
+	3234439292	Play_VO_card_104001_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_04	
+	3234439293	Play_VO_card_104001_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104001_05	
+	3326415048	Play_VO_card_104015_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_01	
+	3326415050	Play_VO_card_104015_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_03	
+	3326415051	Play_VO_card_104015_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_02	
+	3326415052	Play_VO_card_104015_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_05	
+	3326415053	Play_VO_card_104015_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104015_04	
+	3419752729	Play_VO_card_103013_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_01	
+	3419752730	Play_VO_card_103013_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_02	
+	3419752731	Play_VO_card_103013_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_03	
+	3419752732	Play_VO_card_103013_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_04	
+	3419752733	Play_VO_card_103013_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103013_05	
+	3529377432	Play_VO_card_103006_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_02	
+	3529377433	Play_VO_card_103006_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_03	
+	3529377435	Play_VO_card_103006_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_01	
+	3529377438	Play_VO_card_103006_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_04	
+	3529377439	Play_VO_card_103006_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103006_05	
+	3636174924	Play_VO_card_102011_03			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102011_03	
+	3636174925	Play_VO_card_102011_02			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102011_02	
+	3636174926	Play_VO_card_102011_01			\Default Work Unit\Voice\Cards\Blue\Play_VO_card_102011_01	
+	3702388849	Play_VO_card_103004_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_01	
+	3702388850	Play_VO_card_103004_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_02	
+	3702388851	Play_VO_card_103004_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_03	
+	3702388852	Play_VO_card_103004_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_04	
+	3702388853	Play_VO_card_103004_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103004_05	
+	3944334346	Play_VO_card_104007_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_04	
+	3944334347	Play_VO_card_104007_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_05	
+	3944334348	Play_VO_card_104007_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_02	
+	3944334349	Play_VO_card_104007_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_03	
+	3944334351	Play_VO_card_104007_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104007_01	
+	4046457112	Play_VO_card_104006_01			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_01	
+	4046457114	Play_VO_card_104006_03			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_03	
+	4046457115	Play_VO_card_104006_02			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_02	
+	4046457116	Play_VO_card_104006_05			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_05	
+	4046457117	Play_VO_card_104006_04			\Default Work Unit\Voice\Cards\Orange\Play_VO_card_104006_04	
+	4108859562	Play_VO_card_103015_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_04	
+	4108859563	Play_VO_card_103015_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_05	
+	4108859564	Play_VO_card_103015_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_02	
+	4108859565	Play_VO_card_103015_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_03	
+	4108859567	Play_VO_card_103015_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103015_01	
+	4190193976	Play_VO_card_103014_01			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_01	
+	4190193978	Play_VO_card_103014_03			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_03	
+	4190193979	Play_VO_card_103014_02			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_02	
+	4190193980	Play_VO_card_103014_05			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_05	
+	4190193981	Play_VO_card_103014_04			\Default Work Unit\Voice\Cards\Purple\Play_VO_card_103014_04	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	307870	VO_card_104004_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_03		1300
+	4035238	VO_card_104017_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_04		1366
+	6932956	VO_card_102005_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102005_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_02		1323
+	11578411	VO_card_103006_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_02		1189
+	19343872	VO_card_103003_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_03		1718
+	27851582	VO_card_104008_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_01		1254
+	30449506	VO_card_102011_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102011_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_01		1899
+	34497090	VO_card_104001_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_01		653
+	37097998	VO_card_104015_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_03		1299
+	48526040	VO_card_104012_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_01		1592
+	50103461	VO_card_104009_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_02		1496
+	51298389	VO_card_103012_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_02		1177
+	60176163	VO_card_104001_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_02		1606
+	62008237	VO_card_104002_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_01		1632
+	62338023	VO_card_102006_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102006_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_03		1694
+	63518869	VO_card_101002_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101002_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_02		1314
+	70076975	VO_card_104009_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_03		1402
+	75397718	VO_card_104017_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_01		1663
+	80131917	VO_card_103008_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_02		1365
+	82904962	VO_card_104005_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_03		1356
+	83334023	VO_card_103009_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_02		1515
+	84887941	VO_card_103002_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_05		1278
+	85143155	VO_card_104004_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_04		1606
+	86680483	VO_card_104013_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_01		1398
+	96121287	VO_card_104012_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_04		1473
+	102191253	VO_card_102004_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102004_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_01		929
+	106616698	VO_card_103006_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_05		1746
+	106977386	VO_card_104011_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_04		1553
+	118855887	VO_card_103003_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_01		1624
+	119374823	VO_card_102002_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102002_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_01		1561
+	132740920	VO_card_104014_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_04		1026
+	134296094	VO_card_104002_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_05		1464
+	141035554	VO_card_104014_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_03		1480
+	144385816	VO_card_102004_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102004_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_02		1363
+	157495913	VO_card_103011_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_03		1568
+	158652842	VO_card_103009_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_01		1540
+	168164893	VO_card_104002_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_02		1263
+	168888788	VO_card_102009_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102009_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_01		1928
+	170146866	VO_card_102003_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102003_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_01		1299
+	172119317	VO_card_104009_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_04		1560
+	180329537	VO_card_101001_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101001_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_03		1427
+	185746933	VO_card_104010_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_02		1454
+	189025165	VO_card_104008_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_04		1489
+	193131956	VO_card_104015_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_02		1186
+	206099206	VO_card_103001_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_03		1558
+	207081440	VO_card_104016_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_02		1252
+	217793539	VO_card_103003_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_05		1662
+	233199788	VO_card_101004_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101004_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_02		1440
+	233314291	VO_card_103013_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_04		1580
+	234299409	VO_card_103010_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_02		1752
+	235507570	VO_card_103012_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_03		1709
+	241813406	VO_card_103010_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_03		1817
+	247018463	VO_card_102001_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102001_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_03		1017
+	247392575	VO_card_104011_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_01		1582
+	251198898	VO_card_104013_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_03		1878
+	256527466	VO_card_103002_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_02		1802
+	259461471	VO_card_104012_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_05		1345
+	267497740	VO_card_104009_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_05		1405
+	274986125	VO_card_103015_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_05		1421
+	278309743	VO_card_103007_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_05		744
+	281880660	VO_card_103013_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_05		1548
+	285643282	VO_card_104015_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_05		1424
+	297207336	VO_card_104014_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_02		1538
+	300716925	VO_card_104017_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_02		1656
+	302525371	VO_card_103004_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_01		1093
+	305154377	VO_card_103009_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_04		1541
+	311058269	VO_card_103003_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_04		1412
+	312618624	VO_card_103008_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_05		1486
+	317389866	VO_card_102012_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102012_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_03		1299
+	318108714	VO_card_104006_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_01		1569
+	319226897	VO_card_104006_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_04		1710
+	326347480	VO_card_102008_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102008_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_03		367
+	326672594	VO_card_103012_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_01		1471
+	353523498	VO_card_103014_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_02		1366
+	368821988	VO_card_103004_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_02		1587
+	375162320	VO_card_103011_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_01		1514
+	375679184	VO_card_104001_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_03		1391
+	384896897	VO_card_104011_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_02		1318
+	387877310	VO_card_102012_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102012_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_01		1707
+	390531799	VO_card_102013_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102013_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_01		1032
+	395590172	VO_card_104013_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_04		1418
+	395664150	VO_card_104005_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_01		1236
+	396050123	VO_card_102003_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102003_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_02		1664
+	398203824	VO_card_104002_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_03		1410
+	408026678	VO_card_104004_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_01		1610
+	416394798	VO_card_101001_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101001_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_02		1196
+	429393500	VO_card_102011_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102011_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_03		1362
+	431354624	VO_card_104005_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_02		1137
+	431793310	VO_card_103007_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_03		1718
+	436153669	VO_card_103014_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_04		1708
+	441695696	VO_card_103015_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_02		1271
+	441781688	VO_card_102001_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102001_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_01		1335
+	444238812	VO_card_103015_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_03		1474
+	450941624	VO_card_103005_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_05		1263
+	453949077	VO_card_103013_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_02		1300
+	463923047	VO_card_104008_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_03		979
+	464274532	VO_card_103014_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_03		648
+	465033449	VO_card_104009_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_01		1516
+	468962405	VO_card_103010_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_05		1633
+	474885414	VO_card_102009_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102009_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_02		1358
+	475045845	VO_card_102002_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102002_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_03		1718
+	475098555	VO_card_102008_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102008_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_01		1240
+	475227722	VO_card_104004_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_05		1515
+	482910192	VO_card_104005_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_04		1119
+	494122975	VO_card_104013_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_02		1447
+	509237117	VO_card_103010_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_04		1682
+	521801906	VO_card_103007_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_04		1566
+	522933783	VO_card_104016_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_05		1581
+	525459900	VO_card_102006_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102006_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_02		967
+	529639215	VO_card_103013_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_03		1331
+	530504918	VO_card_101003_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101003_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_01		1629
+	533433451	VO_card_103002_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_04		1434
+	539514218	VO_card_103015_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_04		1658
+	544774987	VO_card_103010_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_01		1654
+	562741864	VO_card_102007_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102007_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_03		1682
+	579180153	VO_card_104008_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_05		1150
+	594692554	VO_card_102008_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102008_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_02		1470
+	595810956	VO_card_101001_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101001_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_01		1410
+	597373043	VO_card_103006_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_04		1436
+	602569825	VO_card_104015_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_01		1560
+	602881468	VO_card_103006_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_03		1528
+	607044981	VO_card_103009_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_03		1989
+	615787803	VO_card_104013_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_05		1642
+	618319170	VO_card_102006_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102006_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_01		691
+	628636866	VO_card_104003_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_03		1505
+	628928766	VO_card_103001_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_05		1283
+	635006571	VO_card_102004_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102004_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_03		1357
+	635971551	VO_card_104016_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_03		1323
+	638464695	VO_card_104017_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_05		1535
+	649742094	VO_card_103001_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_04		1357
+	657285790	VO_card_103004_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_05		915
+	668185635	VO_card_104010_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_01		1302
+	672143158	VO_card_102012_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102012_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_02		1585
+	677716375	VO_card_104002_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_04		1442
+	678936864	VO_card_101002_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101002_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_03		1658
+	686996246	VO_card_104007_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_04		1597
+	694397786	VO_card_104005_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_05		1280
+	697232263	VO_card_103013_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_01		1337
+	709739019	VO_card_103004_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_04		1764
+	732261333	VO_card_104006_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_02		1495
+	743676546	VO_card_103008_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_01		1632
+	755168704	VO_card_104011_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_05		1475
+	757276447	VO_card_104012_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_03		1511
+	772854046	VO_card_101004_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101004_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_03		1174
+	773112643	VO_card_103003_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_02		1503
+	777630221	VO_card_104014_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_05		1709
+	777660397	VO_card_102013_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102013_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_02		1560
+	777983370	VO_card_101004_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101004_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_01		1582
+	787742995	VO_card_104006_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_03		1000
+	796875296	VO_card_104007_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_02		1794
+	797209645	VO_card_104003_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_04		1377
+	809326459	VO_card_103011_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_04		1624
+	815067590	VO_card_104014_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_01		1257
+	824827018	VO_card_104007_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_03		1513
+	826480698	VO_card_102010_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102010_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_03		1356
+	827013315	VO_card_102013_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102013_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_03		1162
+	834943243	VO_card_103007_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_02		1526
+	836286729	VO_card_102001_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102001_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_02		1642
+	838598382	VO_card_104010_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_03		1420
+	839629775	VO_card_102005_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102005_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_03		1653
+	842208992	VO_card_102005_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102005_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_01		1866
+	848033049	VO_card_103001_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_01		1090
+	854084902	VO_card_104004_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_02		1704
+	868882495	VO_card_104015_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_04		1717
+	871047051	VO_card_102007_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102007_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_01		1347
+	881068951	VO_card_103011_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_05		1646
+	886443596	VO_card_104003_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_01		1902
+	892064652	VO_card_104016_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_01		1643
+	894407120	VO_card_103005_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_03		1113
+	896441770	VO_card_103005_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_04		1620
+	897072933	VO_card_104012_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_02		1554
+	898135136	VO_card_104010_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_05		1234
+	899204073	VO_card_104003_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_05		1209
+	900472042	VO_card_102007_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102007_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_02		1127
+	906000899	VO_card_103015_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_01		1597
+	912207772	VO_card_103005_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_01		1305
+	917143892	VO_card_102009_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102009_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_03		1713
+	919999214	VO_card_103008_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_03		1559
+	920872707	VO_card_103007_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_01		1327
+	920913520	VO_card_103014_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_05		1739
+	920961245	VO_card_104016_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_04		1100
+	926820037	VO_card_103012_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_05		1560
+	933107714	VO_card_104007_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_01		1514
+	935077902	VO_card_103009_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_05		1317
+	942148306	VO_card_104010_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_04		1491
+	942778757	VO_card_102010_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102010_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_01		953
+	950280289	VO_card_104007_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_05		1542
+	956483062	VO_card_104003_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_02		1689
+	959035426	VO_card_104017_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_03		1745
+	960495712	VO_card_103014_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_01		1730
+	963303770	VO_card_103002_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_01		870
+	963740110	VO_card_103008_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_04		1487
+	975521206	VO_card_104006_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_05		1214
+	985391031	VO_card_101003_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101003_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_03		1506
+	985959022	VO_card_102002_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102002_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_02		1054
+	996985873	VO_card_103005_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_02		1158
+	1007516625	VO_card_104001_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_04		1425
+	1010868006	VO_card_103001_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_02		1562
+	1015497662	VO_card_102011_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102011_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_02		1758
+	1017007113	VO_card_103012_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_04_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_04		1648
+	1017877713	VO_card_101002_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101002_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_01		1691
+	1027244463	VO_card_102010_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102010_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_02		1604
+	1032679546	VO_card_103006_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_01_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_01		1552
+	1036134545	VO_card_104011_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_03		1275
+	1038969738	VO_card_104008_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_02		1145
+	1041958680	VO_card_101003_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101003_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_02		1575
+	1048435013	VO_card_103004_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_03		1478
+	1050746002	VO_card_104001_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_05_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_05		1667
+	1051515761	VO_card_103011_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_02_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_02		1514
+	1056018403	VO_card_103002_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_03		1391
+	1066826315	VO_card_102003_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102003_03_E4667FBD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_03		1766
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	307870	VO_card_104004_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_03_E4667FBD.wem	307870.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_03	
+	4035238	VO_card_104017_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_04_E4667FBD.wem	4035238.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_04	
+	6932956	VO_card_102005_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102005_02_E4667FBD.wem	6932956.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_02	
+	11578411	VO_card_103006_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_02_E4667FBD.wem	11578411.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_02	
+	19343872	VO_card_103003_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_03_E4667FBD.wem	19343872.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_03	
+	27851582	VO_card_104008_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_01_E4667FBD.wem	27851582.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_01	
+	30449506	VO_card_102011_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102011_01_E4667FBD.wem	30449506.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_01	
+	34497090	VO_card_104001_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_01_E4667FBD.wem	34497090.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_01	
+	37097998	VO_card_104015_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_03_E4667FBD.wem	37097998.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_03	
+	48526040	VO_card_104012_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_01_E4667FBD.wem	48526040.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_01	
+	50103461	VO_card_104009_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_02_E4667FBD.wem	50103461.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_02	
+	51298389	VO_card_103012_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_02_E4667FBD.wem	51298389.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_02	
+	60176163	VO_card_104001_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_02_E4667FBD.wem	60176163.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_02	
+	62008237	VO_card_104002_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_01_E4667FBD.wem	62008237.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_01	
+	62338023	VO_card_102006_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102006_03_E4667FBD.wem	62338023.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_03	
+	63518869	VO_card_101002_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101002_02_E4667FBD.wem	63518869.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_02	
+	70076975	VO_card_104009_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_03_E4667FBD.wem	70076975.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_03	
+	75397718	VO_card_104017_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_01_E4667FBD.wem	75397718.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_01	
+	80131917	VO_card_103008_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_02_E4667FBD.wem	80131917.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_02	
+	82904962	VO_card_104005_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_03_E4667FBD.wem	82904962.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_03	
+	83334023	VO_card_103009_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_02_E4667FBD.wem	83334023.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_02	
+	84887941	VO_card_103002_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_05_E4667FBD.wem	84887941.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_05	
+	85143155	VO_card_104004_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_04_E4667FBD.wem	85143155.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_04	
+	86680483	VO_card_104013_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_01_E4667FBD.wem	86680483.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_01	
+	96121287	VO_card_104012_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_04_E4667FBD.wem	96121287.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_04	
+	102191253	VO_card_102004_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102004_01_E4667FBD.wem	102191253.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_01	
+	106616698	VO_card_103006_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_05_E4667FBD.wem	106616698.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_05	
+	106977386	VO_card_104011_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_04_E4667FBD.wem	106977386.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_04	
+	118855887	VO_card_103003_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_01_E4667FBD.wem	118855887.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_01	
+	119374823	VO_card_102002_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102002_01_E4667FBD.wem	119374823.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_01	
+	132740920	VO_card_104014_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_04_E4667FBD.wem	132740920.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_04	
+	134296094	VO_card_104002_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_05_E4667FBD.wem	134296094.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_05	
+	141035554	VO_card_104014_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_03_E4667FBD.wem	141035554.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_03	
+	144385816	VO_card_102004_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102004_02_E4667FBD.wem	144385816.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_02	
+	157495913	VO_card_103011_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_03_E4667FBD.wem	157495913.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_03	
+	158652842	VO_card_103009_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_01_E4667FBD.wem	158652842.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_01	
+	168164893	VO_card_104002_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_02_E4667FBD.wem	168164893.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_02	
+	168888788	VO_card_102009_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102009_01_E4667FBD.wem	168888788.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_01	
+	170146866	VO_card_102003_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102003_01_E4667FBD.wem	170146866.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_01	
+	172119317	VO_card_104009_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_04_E4667FBD.wem	172119317.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_04	
+	180329537	VO_card_101001_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101001_03_E4667FBD.wem	180329537.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_03	
+	185746933	VO_card_104010_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_02_E4667FBD.wem	185746933.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_02	
+	189025165	VO_card_104008_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_04_E4667FBD.wem	189025165.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_04	
+	193131956	VO_card_104015_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_02_E4667FBD.wem	193131956.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_02	
+	206099206	VO_card_103001_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_03_E4667FBD.wem	206099206.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_03	
+	207081440	VO_card_104016_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_02_E4667FBD.wem	207081440.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_02	
+	217793539	VO_card_103003_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_05_E4667FBD.wem	217793539.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_05	
+	233199788	VO_card_101004_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101004_02_E4667FBD.wem	233199788.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_02	
+	233314291	VO_card_103013_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_04_E4667FBD.wem	233314291.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_04	
+	234299409	VO_card_103010_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_02_E4667FBD.wem	234299409.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_02	
+	235507570	VO_card_103012_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_03_E4667FBD.wem	235507570.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_03	
+	241813406	VO_card_103010_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_03_E4667FBD.wem	241813406.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_03	
+	247018463	VO_card_102001_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102001_03_E4667FBD.wem	247018463.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_03	
+	247392575	VO_card_104011_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_01_E4667FBD.wem	247392575.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_01	
+	251198898	VO_card_104013_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_03_E4667FBD.wem	251198898.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_03	
+	256527466	VO_card_103002_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_02_E4667FBD.wem	256527466.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_02	
+	259461471	VO_card_104012_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_05_E4667FBD.wem	259461471.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_05	
+	267497740	VO_card_104009_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_05_E4667FBD.wem	267497740.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_05	
+	274986125	VO_card_103015_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_05_E4667FBD.wem	274986125.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_05	
+	278309743	VO_card_103007_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_05_E4667FBD.wem	278309743.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_05	
+	281880660	VO_card_103013_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_05_E4667FBD.wem	281880660.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_05	
+	285643282	VO_card_104015_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_05_E4667FBD.wem	285643282.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_05	
+	297207336	VO_card_104014_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_02_E4667FBD.wem	297207336.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_02	
+	300716925	VO_card_104017_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_02_E4667FBD.wem	300716925.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_02	
+	302525371	VO_card_103004_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_01_E4667FBD.wem	302525371.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_01	
+	305154377	VO_card_103009_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_04_E4667FBD.wem	305154377.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_04	
+	311058269	VO_card_103003_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_04_E4667FBD.wem	311058269.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_04	
+	312618624	VO_card_103008_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_05_E4667FBD.wem	312618624.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_05	
+	317389866	VO_card_102012_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102012_03_E4667FBD.wem	317389866.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_03	
+	318108714	VO_card_104006_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_01_E4667FBD.wem	318108714.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_01	
+	319226897	VO_card_104006_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_04_E4667FBD.wem	319226897.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_04	
+	326347480	VO_card_102008_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102008_03_E4667FBD.wem	326347480.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_03	
+	326672594	VO_card_103012_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_01_E4667FBD.wem	326672594.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_01	
+	353523498	VO_card_103014_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_02_E4667FBD.wem	353523498.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_02	
+	368821988	VO_card_103004_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_02_E4667FBD.wem	368821988.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_02	
+	375162320	VO_card_103011_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_01_E4667FBD.wem	375162320.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_01	
+	375679184	VO_card_104001_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_03_E4667FBD.wem	375679184.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_03	
+	384896897	VO_card_104011_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_02_E4667FBD.wem	384896897.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_02	
+	387877310	VO_card_102012_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102012_01_E4667FBD.wem	387877310.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_01	
+	390531799	VO_card_102013_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102013_01_E4667FBD.wem	390531799.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_01	
+	395590172	VO_card_104013_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_04_E4667FBD.wem	395590172.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_04	
+	395664150	VO_card_104005_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_01_E4667FBD.wem	395664150.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_01	
+	396050123	VO_card_102003_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102003_02_E4667FBD.wem	396050123.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_02	
+	398203824	VO_card_104002_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_03_E4667FBD.wem	398203824.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_03	
+	408026678	VO_card_104004_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_01_E4667FBD.wem	408026678.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_01	
+	416394798	VO_card_101001_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101001_02_E4667FBD.wem	416394798.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_02	
+	429393500	VO_card_102011_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102011_03_E4667FBD.wem	429393500.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_03	
+	431354624	VO_card_104005_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_02_E4667FBD.wem	431354624.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_02	
+	431793310	VO_card_103007_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_03_E4667FBD.wem	431793310.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_03	
+	436153669	VO_card_103014_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_04_E4667FBD.wem	436153669.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_04	
+	441695696	VO_card_103015_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_02_E4667FBD.wem	441695696.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_02	
+	441781688	VO_card_102001_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102001_01_E4667FBD.wem	441781688.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_01	
+	444238812	VO_card_103015_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_03_E4667FBD.wem	444238812.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_03	
+	450941624	VO_card_103005_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_05_E4667FBD.wem	450941624.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_05	
+	453949077	VO_card_103013_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_02_E4667FBD.wem	453949077.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_02	
+	463923047	VO_card_104008_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_03_E4667FBD.wem	463923047.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_03	
+	464274532	VO_card_103014_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_03_E4667FBD.wem	464274532.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_03	
+	465033449	VO_card_104009_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104009_01_E4667FBD.wem	465033449.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104009_01	
+	468962405	VO_card_103010_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_05_E4667FBD.wem	468962405.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_05	
+	474885414	VO_card_102009_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102009_02_E4667FBD.wem	474885414.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_02	
+	475045845	VO_card_102002_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102002_03_E4667FBD.wem	475045845.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_03	
+	475098555	VO_card_102008_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102008_01_E4667FBD.wem	475098555.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_01	
+	475227722	VO_card_104004_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_05_E4667FBD.wem	475227722.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_05	
+	482910192	VO_card_104005_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_04_E4667FBD.wem	482910192.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_04	
+	494122975	VO_card_104013_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_02_E4667FBD.wem	494122975.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_02	
+	509237117	VO_card_103010_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_04_E4667FBD.wem	509237117.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_04	
+	521801906	VO_card_103007_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_04_E4667FBD.wem	521801906.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_04	
+	522933783	VO_card_104016_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_05_E4667FBD.wem	522933783.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_05	
+	525459900	VO_card_102006_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102006_02_E4667FBD.wem	525459900.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_02	
+	529639215	VO_card_103013_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_03_E4667FBD.wem	529639215.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_03	
+	530504918	VO_card_101003_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101003_01_E4667FBD.wem	530504918.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_01	
+	533433451	VO_card_103002_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_04_E4667FBD.wem	533433451.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_04	
+	539514218	VO_card_103015_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_04_E4667FBD.wem	539514218.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_04	
+	544774987	VO_card_103010_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103010_01_E4667FBD.wem	544774987.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103010_01	
+	562741864	VO_card_102007_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102007_03_E4667FBD.wem	562741864.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_03	
+	579180153	VO_card_104008_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_05_E4667FBD.wem	579180153.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_05	
+	594692554	VO_card_102008_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102008_02_E4667FBD.wem	594692554.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102008_02	
+	595810956	VO_card_101001_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101001_01_E4667FBD.wem	595810956.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101001_01	
+	597373043	VO_card_103006_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_04_E4667FBD.wem	597373043.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_04	
+	602569825	VO_card_104015_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_01_E4667FBD.wem	602569825.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_01	
+	602881468	VO_card_103006_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_03_E4667FBD.wem	602881468.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_03	
+	607044981	VO_card_103009_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_03_E4667FBD.wem	607044981.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_03	
+	615787803	VO_card_104013_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104013_05_E4667FBD.wem	615787803.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104013_05	
+	618319170	VO_card_102006_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102006_01_E4667FBD.wem	618319170.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102006_01	
+	628636866	VO_card_104003_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_03_E4667FBD.wem	628636866.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_03	
+	628928766	VO_card_103001_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_05_E4667FBD.wem	628928766.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_05	
+	635006571	VO_card_102004_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102004_03_E4667FBD.wem	635006571.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102004_03	
+	635971551	VO_card_104016_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_03_E4667FBD.wem	635971551.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_03	
+	638464695	VO_card_104017_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_05_E4667FBD.wem	638464695.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_05	
+	649742094	VO_card_103001_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_04_E4667FBD.wem	649742094.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_04	
+	657285790	VO_card_103004_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_05_E4667FBD.wem	657285790.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_05	
+	668185635	VO_card_104010_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_01_E4667FBD.wem	668185635.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_01	
+	672143158	VO_card_102012_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102012_02_E4667FBD.wem	672143158.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102012_02	
+	677716375	VO_card_104002_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104002_04_E4667FBD.wem	677716375.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104002_04	
+	678936864	VO_card_101002_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101002_03_E4667FBD.wem	678936864.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_03	
+	686996246	VO_card_104007_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_04_E4667FBD.wem	686996246.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_04	
+	694397786	VO_card_104005_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104005_05_E4667FBD.wem	694397786.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104005_05	
+	697232263	VO_card_103013_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103013_01_E4667FBD.wem	697232263.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103013_01	
+	709739019	VO_card_103004_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_04_E4667FBD.wem	709739019.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_04	
+	732261333	VO_card_104006_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_02_E4667FBD.wem	732261333.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_02	
+	743676546	VO_card_103008_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_01_E4667FBD.wem	743676546.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_01	
+	755168704	VO_card_104011_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_05_E4667FBD.wem	755168704.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_05	
+	757276447	VO_card_104012_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_03_E4667FBD.wem	757276447.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_03	
+	772854046	VO_card_101004_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101004_03_E4667FBD.wem	772854046.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_03	
+	773112643	VO_card_103003_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103003_02_E4667FBD.wem	773112643.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103003_02	
+	777630221	VO_card_104014_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_05_E4667FBD.wem	777630221.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_05	
+	777660397	VO_card_102013_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102013_02_E4667FBD.wem	777660397.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_02	
+	777983370	VO_card_101004_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101004_01_E4667FBD.wem	777983370.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101004_01	
+	787742995	VO_card_104006_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_03_E4667FBD.wem	787742995.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_03	
+	796875296	VO_card_104007_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_02_E4667FBD.wem	796875296.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_02	
+	797209645	VO_card_104003_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_04_E4667FBD.wem	797209645.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_04	
+	809326459	VO_card_103011_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_04_E4667FBD.wem	809326459.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_04	
+	815067590	VO_card_104014_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104014_01_E4667FBD.wem	815067590.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104014_01	
+	824827018	VO_card_104007_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_03_E4667FBD.wem	824827018.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_03	
+	826480698	VO_card_102010_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102010_03_E4667FBD.wem	826480698.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_03	
+	827013315	VO_card_102013_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102013_03_E4667FBD.wem	827013315.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102013_03	
+	834943243	VO_card_103007_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_02_E4667FBD.wem	834943243.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_02	
+	836286729	VO_card_102001_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102001_02_E4667FBD.wem	836286729.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102001_02	
+	838598382	VO_card_104010_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_03_E4667FBD.wem	838598382.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_03	
+	839629775	VO_card_102005_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102005_03_E4667FBD.wem	839629775.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_03	
+	842208992	VO_card_102005_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102005_01_E4667FBD.wem	842208992.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102005_01	
+	848033049	VO_card_103001_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_01_E4667FBD.wem	848033049.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_01	
+	854084902	VO_card_104004_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104004_02_E4667FBD.wem	854084902.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104004_02	
+	868882495	VO_card_104015_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104015_04_E4667FBD.wem	868882495.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104015_04	
+	871047051	VO_card_102007_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102007_01_E4667FBD.wem	871047051.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_01	
+	881068951	VO_card_103011_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_05_E4667FBD.wem	881068951.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_05	
+	886443596	VO_card_104003_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_01_E4667FBD.wem	886443596.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_01	
+	892064652	VO_card_104016_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_01_E4667FBD.wem	892064652.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_01	
+	894407120	VO_card_103005_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_03_E4667FBD.wem	894407120.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_03	
+	896441770	VO_card_103005_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_04_E4667FBD.wem	896441770.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_04	
+	897072933	VO_card_104012_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104012_02_E4667FBD.wem	897072933.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104012_02	
+	898135136	VO_card_104010_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_05_E4667FBD.wem	898135136.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_05	
+	899204073	VO_card_104003_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_05_E4667FBD.wem	899204073.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_05	
+	900472042	VO_card_102007_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102007_02_E4667FBD.wem	900472042.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102007_02	
+	906000899	VO_card_103015_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103015_01_E4667FBD.wem	906000899.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103015_01	
+	912207772	VO_card_103005_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_01_E4667FBD.wem	912207772.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_01	
+	917143892	VO_card_102009_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102009_03_E4667FBD.wem	917143892.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102009_03	
+	919999214	VO_card_103008_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_03_E4667FBD.wem	919999214.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_03	
+	920872707	VO_card_103007_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103007_01_E4667FBD.wem	920872707.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103007_01	
+	920913520	VO_card_103014_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_05_E4667FBD.wem	920913520.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_05	
+	920961245	VO_card_104016_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104016_04_E4667FBD.wem	920961245.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104016_04	
+	926820037	VO_card_103012_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_05_E4667FBD.wem	926820037.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_05	
+	933107714	VO_card_104007_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_01_E4667FBD.wem	933107714.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_01	
+	935077902	VO_card_103009_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103009_05_E4667FBD.wem	935077902.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103009_05	
+	942148306	VO_card_104010_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104010_04_E4667FBD.wem	942148306.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104010_04	
+	942778757	VO_card_102010_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102010_01_E4667FBD.wem	942778757.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_01	
+	950280289	VO_card_104007_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104007_05_E4667FBD.wem	950280289.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104007_05	
+	956483062	VO_card_104003_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104003_02_E4667FBD.wem	956483062.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104003_02	
+	959035426	VO_card_104017_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104017_03_E4667FBD.wem	959035426.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104017_03	
+	960495712	VO_card_103014_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103014_01_E4667FBD.wem	960495712.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103014_01	
+	963303770	VO_card_103002_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_01_E4667FBD.wem	963303770.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_01	
+	963740110	VO_card_103008_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103008_04_E4667FBD.wem	963740110.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103008_04	
+	975521206	VO_card_104006_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104006_05_E4667FBD.wem	975521206.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104006_05	
+	985391031	VO_card_101003_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101003_03_E4667FBD.wem	985391031.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_03	
+	985959022	VO_card_102002_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102002_02_E4667FBD.wem	985959022.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102002_02	
+	996985873	VO_card_103005_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103005_02_E4667FBD.wem	996985873.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103005_02	
+	1007516625	VO_card_104001_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_04_E4667FBD.wem	1007516625.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_04	
+	1010868006	VO_card_103001_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103001_02_E4667FBD.wem	1010868006.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103001_02	
+	1015497662	VO_card_102011_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102011_02_E4667FBD.wem	1015497662.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102011_02	
+	1017007113	VO_card_103012_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103012_04_E4667FBD.wem	1017007113.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103012_04	
+	1017877713	VO_card_101002_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101002_01_E4667FBD.wem	1017877713.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101002_01	
+	1027244463	VO_card_102010_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102010_02_E4667FBD.wem	1027244463.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102010_02	
+	1032679546	VO_card_103006_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103006_01_E4667FBD.wem	1032679546.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103006_01	
+	1036134545	VO_card_104011_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104011_03_E4667FBD.wem	1036134545.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104011_03	
+	1038969738	VO_card_104008_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104008_02_E4667FBD.wem	1038969738.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104008_02	
+	1041958680	VO_card_101003_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_101003_02_E4667FBD.wem	1041958680.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\White\VO_card_101003_02	
+	1048435013	VO_card_103004_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103004_03_E4667FBD.wem	1048435013.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103004_03	
+	1050746002	VO_card_104001_05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_104001_05_E4667FBD.wem	1050746002.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Orange\VO_card_104001_05	
+	1051515761	VO_card_103011_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103011_02_E4667FBD.wem	1051515761.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103011_02	
+	1056018403	VO_card_103002_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_103002_03_E4667FBD.wem	1056018403.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Purple\VO_card_103002_03	
+	1066826315	VO_card_102003_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_card_102003_03_E4667FBD.wem	1066826315.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Cards\Blue\VO_card_102003_03	
+

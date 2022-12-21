@@ -1,0 +1,18 @@
+Event	ID	Name			Wwise Object Path	Notes
+	531550870	Play_VO_roomaction_tea_hot			\Default Work Unit\Voice\Common\roomaction\Play_VO_roomaction_tea_hot	
+	787930194	Play_VO_roomaction_chips_eat			\Default Work Unit\Voice\Common\roomaction\Play_VO_roomaction_chips_eat	
+	3318857686	Play_VO_roomaction_chips_pour			\Default Work Unit\Voice\Common\roomaction\Play_VO_roomaction_chips_pour	
+	3333551975	Play_VO_roomaction_chips_cola			\Default Work Unit\Voice\Common\roomaction\Play_VO_roomaction_chips_cola	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	7425400	VO_roomaction_tea_hot	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_roomaction_tea_hot_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_tea_hot		1477
+	23693592	VO_roomaction_chips_pour	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_roomaction_chips_pour_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_pour		997
+	77153715	VO_roomaction_chips_eat	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_roomaction_chips_eat_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_eat		1231
+	862712496	VO_roomaction_chips_cola	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_roomaction_chips_cola_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_cola		1098
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	7425400	VO_roomaction_tea_hot	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_roomaction_tea_hot_737634FD.wem	7425400.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_tea_hot	
+	23693592	VO_roomaction_chips_pour	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_roomaction_chips_pour_737634FD.wem	23693592.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_pour	
+	77153715	VO_roomaction_chips_eat	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_roomaction_chips_eat_737634FD.wem	77153715.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_eat	
+	862712496	VO_roomaction_chips_cola	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Japanese\VO_roomaction_chips_cola_737634FD.wem	862712496.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Common\roomaction\VO_roomaction_chips_cola	
+

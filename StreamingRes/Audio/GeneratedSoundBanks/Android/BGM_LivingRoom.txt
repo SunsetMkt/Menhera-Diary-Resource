@@ -1,0 +1,83 @@
+Event	ID	Name			Wwise Object Path	Notes
+	3126765036	Play_BGM			\Default Work Unit\BGM\Play_BGM	
+
+State Group	ID	Name			Wwise Object Path	Notes
+	1966247060	Jenga			\Default Work Unit\Jenga	
+	2479796841	BGM_mode			\Default Work Unit\BGM_mode	
+	2666809638	Day_night			\Default Work Unit\Day_night	
+	2820053716	Appoint_area			\Default Work Unit\Appoint_area	
+	3310578182	Minigame			\Default Work Unit\Minigame	
+	4214858766	Plot_mode			\Default Work Unit\Plot_mode	
+
+State	ID	Name	State Group			Notes
+	0	None	Jenga			
+	529726532	end	Jenga			
+	1281810935	start	Jenga			
+	0	None	BGM_mode			
+	800334384	appoint	BGM_mode			
+	1423979120	plot	BGM_mode			
+	2153149596	lottery	BGM_mode			
+	2403500745	saloon	BGM_mode			
+	3310578182	minigame	BGM_mode			
+	0	None	Day_night			
+	765672767	noon	Day_night			
+	1011622525	night	Day_night			
+	1435266553	latenight	Day_night			
+	1924633667	morning	Day_night			
+	0	None	Appoint_area			
+	2395677314	common	Appoint_area			
+	0	None	Minigame			
+	1966247060	jenga	Minigame			
+	0	None	Plot_mode			
+	443572635	sad	Plot_mode			
+	783551814	furtive	Plot_mode			
+	788884573	Stop	Plot_mode			
+	1160234136	normal	Plot_mode			
+	1427264549	happy	Plot_mode			
+	1737604687	comfort	Plot_mode			
+	1816332127	funny	Plot_mode			
+	3099819167	confrontation	Plot_mode			
+	4130122878	touching	Plot_mode			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	75542587	BGM_plot_comfot_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_comfot_loop_CA1E64F5.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_comfort\BGM_plot_comfot_loop\BGM_plot_comfot_loop		34556
+	178200089	Print-Mix_23-03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_23-03_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_funny\Print-Mix_23-03\Print-Mix_23-03		11530
+	234412241	BGM_minigame_jenga	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_minigame_jenga_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\Minigame\BGM_minigame_jenga\BGM_minigame_jenga\BGM_minigame_jenga\BGM_minigame_jenga		19230
+	238541661	Print-Mix_20-05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_20-05_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\Outro\BGM_plot_funny_outro\Print-Mix_20-05		6928
+	310861704	Print-Mix_15_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_15.01_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\Outro\BGM_plot_comfort_outro\Print-Mix_15_01		24651
+	328781049	BGM_lottery_st	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_lottery_mn_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_lottery\BGM_lottery\BGM_lottery_st		13838
+	411468175	BGM_plot_furtive_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_furtive_loop_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_furtive\BGM_plot_furtive_loop\BGM_plot_furtive_loop		12410
+	414481534	Print-Mix_19-03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_19-03_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_touching\BGM_plot_touching_loop\Print-Mix_19-03		10642
+	484266260	BGM_plot_sad_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_sad_loop_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_sad\BGM_plot_sad_loop\BGM_plot_sad_loop		17571
+	696150327	BGM_Appoint_Intro	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_Appoint_Intro_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_appoint\BGM_appoint_common\BGM_Appoint_Intro\BGM_Appoint_Intro		5820
+	745002579	BGM_minigame_jenga_end	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_minigame_jenga_end_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\Minigame\BGM_minigame_jenga\BGM_minigame_jenga_end\BGM_minigame_jenga_end\BGM_minigame_jenga_end		4083
+	748056076	Print-Mix_28	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_28_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_happy\Print-Mix_28\Print-Mix_28		10012
+	750486893	BGM_lottery_st	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_lottery_st_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_lottery\BGM_lottery\BGM_lottery_st		15028
+	762129413	BGM_plot_confrontation_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_confrontation_loop_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_confrontation\BGM_plot_confrontation_loop\BGM_plot_confrontation_loop		19076
+	798232802	BGM_Appoint_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_Appoint_loop_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_appoint\BGM_appoint_common\BGM_Appoint_loop\BGM_Appoint_loop		34398
+	974057946	Print-Mix_25-05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_25-05_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\Outro\BGM_plot_touching_outro\Print-Mix_25-05		5242
+	1006551276	Print-Mix_25-09	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_25-09_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\Outro\BGM_plot_normal_outro\Print-Mix_25-09		5763
+	1037115260	BGM_plot_comfot_intro	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_comfot_intro_CA1E64F5.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_comfort\BGM_plot_comfot_intro\BGM_plot_comfot_intro		6102
+	1070139889	Print-Mix_19-07	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_19-07_A710C005.wem		\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_normal\BGM_plot_normal\Print-Mix_19-07		10812
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	75542587	BGM_plot_comfot_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_comfot_loop_CA1E64F5.wem	75542587.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_comfort\BGM_plot_comfot_loop\BGM_plot_comfot_loop	
+	178200089	Print-Mix_23-03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_23-03_A710C005.wem	178200089.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_funny\Print-Mix_23-03\Print-Mix_23-03	
+	234412241	BGM_minigame_jenga	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_minigame_jenga_A710C005.wem	234412241.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\Minigame\BGM_minigame_jenga\BGM_minigame_jenga\BGM_minigame_jenga\BGM_minigame_jenga	
+	238541661	Print-Mix_20-05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_20-05_A710C005.wem	238541661.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\Outro\BGM_plot_funny_outro\Print-Mix_20-05	
+	310861704	Print-Mix_15_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_15.01_A710C005.wem	310861704.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\Outro\BGM_plot_comfort_outro\Print-Mix_15_01	
+	328781049	BGM_lottery_st	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_lottery_mn_A710C005.wem	328781049.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_lottery\BGM_lottery\BGM_lottery_st	
+	411468175	BGM_plot_furtive_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_furtive_loop_A710C005.wem	411468175.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_furtive\BGM_plot_furtive_loop\BGM_plot_furtive_loop	
+	414481534	Print-Mix_19-03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_19-03_A710C005.wem	414481534.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_touching\BGM_plot_touching_loop\Print-Mix_19-03	
+	484266260	BGM_plot_sad_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_sad_loop_A710C005.wem	484266260.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_sad\BGM_plot_sad_loop\BGM_plot_sad_loop	
+	696150327	BGM_Appoint_Intro	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_Appoint_Intro_A710C005.wem	696150327.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_appoint\BGM_appoint_common\BGM_Appoint_Intro\BGM_Appoint_Intro	
+	745002579	BGM_minigame_jenga_end	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_minigame_jenga_end_A710C005.wem	745002579.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\Minigame\BGM_minigame_jenga\BGM_minigame_jenga_end\BGM_minigame_jenga_end\BGM_minigame_jenga_end	
+	748056076	Print-Mix_28	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_28_A710C005.wem	748056076.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_happy\Print-Mix_28\Print-Mix_28	
+	750486893	BGM_lottery_st	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_lottery_st_A710C005.wem	750486893.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_lottery\BGM_lottery\BGM_lottery_st	
+	762129413	BGM_plot_confrontation_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_confrontation_loop_A710C005.wem	762129413.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_confrontation\BGM_plot_confrontation_loop\BGM_plot_confrontation_loop	
+	798232802	BGM_Appoint_loop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_Appoint_loop_A710C005.wem	798232802.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_appoint\BGM_appoint_common\BGM_Appoint_loop\BGM_Appoint_loop	
+	974057946	Print-Mix_25-05	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_25-05_A710C005.wem	974057946.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\Outro\BGM_plot_touching_outro\Print-Mix_25-05	
+	1006551276	Print-Mix_25-09	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_25-09_A710C005.wem	1006551276.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\Outro\BGM_plot_normal_outro\Print-Mix_25-09	
+	1037115260	BGM_plot_comfot_intro	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\BGM_plot_comfot_intro_CA1E64F5.wem	1037115260.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_comfort\BGM_plot_comfot_intro\BGM_plot_comfot_intro	
+	1070139889	Print-Mix_19-07	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\Print-Mix_19-07_A710C005.wem	1070139889.wem	\Interactive Music Hierarchy\Default Work Unit\BGM\BGM_plot\BGM_plot_normal\BGM_plot_normal\Print-Mix_19-07	
+

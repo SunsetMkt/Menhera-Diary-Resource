@@ -1,0 +1,45 @@
+Event	ID	Name			Wwise Object Path	Notes
+	900866340	Play_VO_guide_zoo_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_zoo_02	
+	900866341	Play_VO_guide_zoo_03			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_zoo_03	
+	900866343	Play_VO_guide_zoo_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_zoo_01	
+	1033652266	Play_VO_guide_sayhi_04			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_04	
+	1033652268	Play_VO_guide_sayhi_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_02	
+	1033652269	Play_VO_guide_sayhi_03			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_03	
+	1033652271	Play_VO_guide_sayhi_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_01	
+	1645338300	Play_VO_guide_sayhi_00_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_00_01	
+	1645338303	Play_VO_guide_sayhi_00_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_sayhi_00_02	
+	2331591261	Play_VO_guide_bag_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_bag_01	
+	2397400037	Play_VO_guide_dinner_01_01			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_dinner_01_01	
+	2397400038	Play_VO_guide_dinner_01_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_dinner_01_02	
+	3582487482	Play_VO_guide_dinner_02			\Default Work Unit\Voice\Guide\Intro\Play_VO_guide_dinner_02	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	35293570	VO_guide_sayhi_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_02		1608
+	54372742	VO_guide_bag_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_bag_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_bag_01		1575
+	72528660	VO_guide_sayhi_00_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_00_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_00_02		1342
+	195344425	VO_guide_zoo_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_zoo_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_01		1486
+	223043138	VO_guide_sayhi_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_01		799
+	394111756	VO_guide_zoo_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_zoo_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_02		1500
+	519602166	VO_guide_dinner_01_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_dinner_01_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_01_01		1434
+	538229814	VO_guide_dinner_01_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_dinner_01_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_01_02		1307
+	618929615	VO_guide_zoo_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_zoo_03_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_03		1435
+	827068953	VO_guide_sayhi_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_04_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_04		1576
+	883394634	VO_guide_dinner_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_dinner_02_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_02		1887
+	946835865	VO_guide_sayhi_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_03_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_03		1661
+	951953832	VO_guide_sayhi_00_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_00_01_737634FD.wem		\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_00_01		1537
+
+Streamed Audio	ID	Name	Audio source file	Generated audio file	Wwise Object Path	Notes
+	35293570	VO_guide_sayhi_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_02_737634FD.wem	35293570.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_02	
+	54372742	VO_guide_bag_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_bag_01_737634FD.wem	54372742.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_bag_01	
+	72528660	VO_guide_sayhi_00_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_00_02_737634FD.wem	72528660.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_00_02	
+	195344425	VO_guide_zoo_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_zoo_01_737634FD.wem	195344425.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_01	
+	223043138	VO_guide_sayhi_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_01_737634FD.wem	223043138.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_01	
+	394111756	VO_guide_zoo_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_zoo_02_737634FD.wem	394111756.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_02	
+	519602166	VO_guide_dinner_01_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_dinner_01_01_737634FD.wem	519602166.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_01_01	
+	538229814	VO_guide_dinner_01_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_dinner_01_02_737634FD.wem	538229814.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_01_02	
+	618929615	VO_guide_zoo_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_zoo_03_737634FD.wem	618929615.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_zoo_03	
+	827068953	VO_guide_sayhi_04	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_04_737634FD.wem	827068953.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_04	
+	883394634	VO_guide_dinner_02	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_dinner_02_737634FD.wem	883394634.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_dinner_02	
+	946835865	VO_guide_sayhi_03	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_03_737634FD.wem	946835865.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_03	
+	951953832	VO_guide_sayhi_00_01	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\Voices\Chinese\VO_guide_sayhi_00_01_737634FD.wem	951953832.wem	\Actor-Mixer Hierarchy\Default Work Unit\Voice\Guide\Intro\VO_guide_sayhi_00_01	
+

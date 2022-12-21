@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	231888095	Play_UI_AR_photo_success			\Default Work Unit\AR\Play_UI_AR_photo_success	
+	1160613908	Play_UI_AR_photo_error			\Default Work Unit\AR\Play_UI_AR_photo_error	
+	1298119105	Play_UI_AR_photo_del			\Default Work Unit\AR\Play_UI_AR_photo_del	
+	3162002622	Play_UI_AR_photo_fail			\Default Work Unit\AR\Play_UI_AR_photo_fail	
+	3742173827	Play_UI_AR_photo_turn			\Default Work Unit\AR\Play_UI_AR_photo_turn	
+	4100500023	Play_UI_AR_photo_autostop			\Default Work Unit\AR\Play_UI_AR_photo_autostop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	339392332	UI_AR_photo_capture	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_AR_capture_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\UI\UI_AR_photo_capture		12324
+	344464321	UI_AR_photo_error	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_photo_error_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\UI\UI_AR_photo_error		110316
+	398801024	UI_AR_photo_del	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_photo_del_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\UI\UI_AR_photo_del		46184
+	444597845	UI_AR_photo_autostop	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_AR_photo_autostop_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\UI\UI_AR_photo_autostop		42168
+	667869512	UI_AR_photo_turn	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_photo_turn_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\UI\UI_AR_photo_turn		141004
+	787696157	UI_AR_photo_fail	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_AR_photo_fail_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\UI\UI_AR_photo_fail		56016
+	1009210780	UI_AR_photo_success	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_AR_photo_success_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\UI\UI_AR_photo_success		48732
+

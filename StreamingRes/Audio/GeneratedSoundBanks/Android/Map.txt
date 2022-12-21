@@ -1,0 +1,15 @@
+Event	ID	Name			Wwise Object Path	Notes
+	281282996	Play_UI_map_puzzle_wrong			\Default Work Unit\map\Play_UI_map_puzzle_wrong	
+	2779701997	Play_UI_map_puzzle_right			\Default Work Unit\map\Play_UI_map_puzzle_right	
+	3630763854	Play_UI_map_open			\Default Work Unit\map\Play_UI_map_open	
+	3802631082	Play_UI_map_close			\Default Work Unit\map\Play_UI_map_close	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	98176285	UI_map_open	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_map_open_4581DB76.wem		\Actor-Mixer Hierarchy\Default Work Unit\Map\UI\UI_map_open		241300
+	202998279	UI_map_puzzle_wrong	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_map_puzzle_wrong_BAAA5883.wem		\Actor-Mixer Hierarchy\Default Work Unit\Map\UI\UI_map_puzzle_wrong		286640
+	213341692	UI_map_puzzle_right	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_map_puzzle_right_EBFCDD4F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Map\UI\UI_map_puzzle_right		399476
+	787696157	UI_map_puzzle_fall	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_AR_photo_fail_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Map\UI\UI_map_puzzle_fall		56016
+	806723724	UI_map_close	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_map_close_B752CA0F.wem		\Actor-Mixer Hierarchy\Default Work Unit\Map\UI\UI_map_close		160220
+	942989128	UI_puzzle_design_success	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_puzzle_design_success_BFAC9250.wem		\Actor-Mixer Hierarchy\Default Work Unit\Map\UI\UI_map_puzzle_success\UI_puzzle_design_success		253640
+	1009210780	UI_AR_photo_success	C:\Users\Administrator\Perforce\limeixuan_HT\client\house\WwiseProject\.cache\Android\SFX\UI_AR_photo_success_F9DC3336.wem		\Actor-Mixer Hierarchy\Default Work Unit\Map\UI\UI_map_puzzle_success\UI_AR_photo_success		48732
+
