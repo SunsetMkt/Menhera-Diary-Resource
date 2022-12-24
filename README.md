@@ -1,6 +1,6 @@
 # Menhera-Diary-Resource
 
-Resource files of com.tencent.tmgp.menhera
+Resource files of com.tencent.tmgp.menhera （《胡桃日记》）
 
 The game is published by [Tencent](https://htrj.qq.com/) and will be shut down in February 2023.
 
